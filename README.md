@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.US one word domains](
 | AAAA.us            | resell    | 68       | 84%    | 4      | GoDaddy.com, LLC        | 24/04/2002 16:48 | 23/04/2026 23:59 |
 | AandE.us           | available | 50       | 80%    | 7      |                         |                  |                  |
 | aardwolf.us        | resell    | 54       | 84%    | 8      | Dominet (HK) Limited    | 10/02/2025 07:44 | 10/02/2026 07:44 |
-| aaron.us           | resell    | 88       | 32%    | 5      | GoDaddy.com, LLC        | 24/04/2002 14:05 | 23/04/2027 23:59 |
+| aaron.us           | resell    | 88       | 28%    | 5      | GoDaddy.com, LLC        | 24/04/2002 14:05 | 23/04/2027 23:59 |
 | aaronburr.us       | available | 54       | 72%    | 10     |                         |                  |                  |
 | aback.us           | premium   | 76       | 80%    | 5      |                         |                  |                  |
 | abactinal.us       | available | 50       | 1%     | 9      |                         |                  |                  |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.US one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
