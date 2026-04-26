@@ -1,22 +1,22 @@
-# Available .US One-Word Domains (55,275)
+# Available .US One-Word Domains (55,514)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C275%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C514%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .us one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **55,275 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **55,514 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 55,275 domains
+**Public extract:** 1,000 rows · **Live catalog:** 55,514 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/us`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .US one-word domain ca
 
 ### Files
 
-- `us.csv` — public CSV extract (10,000 rows)
-- `us.json` — public JSON extract (10,000 rows)
+- `us.csv` — public CSV extract (1,000 rows)
+- `us.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Abdulmalik.us   | available | $10.98    | —             | 46             | 84     | 10     | namecheap        |
-| crying.us       | resell    | $10.98    | —             | 82             | 10     | 6      | Spaceship, Inc.  |
-| amoro.us        | premium   | $10.98    | —             | 72             | 7      | 7      | namecheap        |
-| bigmanoncamp.us | available | $6.99     | $10.99        | 64             | 76     | 17     | name.com         |
-| completely.us   | resell    | $10.98    | —             | 66             | 8      | 10     | Spaceship, Inc.  |
-| dragoon.us      | premium   | —         | —             | 78             | 88     | 7      | —                |
-| captioning.us   | available | $6.99     | $18.99        | 58             | 76     | 10     | name.com         |
-| earlier.us      | resell    | $10.98    | —             | 66             | 7      | 7      | Spaceship, Inc.  |
-| hashmap.us      | premium   | —         | —             | 58             | 88     | 7      | —                |
-| YouTubian.us    | available | $10.48    | —             | 82             | 72     | 9      | namecheap        |
-| derelict.us     | resell    | $10.98    | —             | 92             | 6      | 8      | Spaceship, Inc.  |
-| overseen.us     | premium   | —         | —             | —              | 88     | 8      | —                |
-| abiogeno.us     | available | $6.99     | $10.99        | 60             | 72     | 10     | name.com         |
-| formerly.us     | resell    | $10.98    | —             | 58             | 6      | 8      | Spaceship, Inc.  |
-| treacle.us      | premium   | —         | —             | 84             | 84     | 7      | —                |
-| termdeposit.us  | available | $6.99     | $18.99        | 60             | 72     | 12     | name.com         |
-| favorable.us    | resell    | $10.98    | —             | 68             | 5      | 9      | Spaceship, Inc.  |
-| backgammon.us   | premium   | —         | —             | 84             | 84     | 10     | —                |
-| antifreeze.us   | available | $6.99     | $18.99        | 56             | 72     | 10     | name.com         |
-| lithuania.us    | resell    | —         | —             | 60             | 97     | 9      | GoDaddy.com, LLC |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| fishfarming.us  | available | $6.99     | $18.99        | 50             | 68     | 12     | name.com             |
+| university.us   | resell    | —         | —             | 66             | 96     | 10     | Sav.com LLC          |
+| treacle.us      | premium   | —         | —             | 84             | 84     | 7      | —                    |
+| desalination.us | available | $6.99     | $18.99        | 56             | 20     | 12     | name.com             |
+| brahms.us       | resell    | —         | —             | 58             | 88     | 6      | Dominet (HK) Limited |
+| haggis.us       | premium   | —         | —             | 65             | 84     | 6      | —                    |
+| Iwould.us       | available | $10.98    | —             | 58             | 12     | 7      | namecheap            |
+| flubber.us      | resell    | —         | —             | 68             | 84     | 7      | Dominet (HK) Limited |
+| overworld.us    | premium   | —         | —             | 54             | 84     | 9      | —                    |
+| shakehands.us   | available | $7.99     | —             | 85             | 9      | 11     | name.com             |
+| epiphany.us     | resell    | —         | —             | 66             | 84     | 8      | GoDaddy.com, LLC     |
+| spoondrift.us   | premium   | —         | —             | —              | 84     | 10     | —                    |
+| savinggrace.us  | available | $7.99     | —             | 76             | 7      | 12     | name.com             |
+| Styles.us       | resell    | —         | —             | 64             | 84     | 6      | Name.com, Inc.       |
+| succour.us      | premium   | —         | —             | 92             | 80     | 7      | —                    |
+| fanmail.us      | available | $7.99     | —             | 74             | 7      | 8      | name.com             |
+| mongoose.us     | resell    | —         | —             | 60             | 84     | 8      | GoDaddy.com, LLC     |
+| clearness.us    | premium   | —         | —             | 66             | 80     | 9      | —                    |
+| norms.us        | available | $7.99     | —             | 45             | 7      | 5      | name.com             |
+| trapper.us      | resell    | —         | —             | 56             | 84     | 7      | GoDaddy.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 55,275 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 55,514 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .US One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .US One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
