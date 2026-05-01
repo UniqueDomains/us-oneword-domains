@@ -1,15 +1,22 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
+00173b68-bf6e-41d6-8b49-f59affdf668b,calculates.us,available,5.49,7.99,50,4,10,namesilo,,
+00f2c8d2-b145-47b5-b740-5be8a9f07279,executives.us,resell,,,64,12,10,"GoDaddy.com, LLC",05/06/2004 13:37,04/06/2026 23:59
+019bbf61-be87-4476-9796-1dfda575392e,defaulted.us,available,5.49,7.99,42,2,9,namesilo,,
 01eb129b-c652-49fa-b1ad-5fc5efd7894d,goodgame.us,resell,,,60,23,9,"GoDaddy.com, LLC",24/11/2004 01:07,23/11/2026 23:59
 01fd23f3-a7e1-49ed-a848-108d0d2a77f1,gobankrupt.us,available,7.99,,68,2,11,name.com,,
 025349b3-8d96-4ee3-8653-dd7afb3a890a,errors.us,resell,,,46,11,6,Dynadot Inc,07/12/2022 00:00,07/12/2026 00:00
+02eb8e73-ddba-48ed-95a1-491a64942bce,monopolizing.us,available,5.49,7.99,40,1,12,namesilo,,
 030504cc-71ce-4830-893a-26e55218848e,barkeeper.us,resell,,,70,4,10,"Spaceship, Inc.",01/04/2026 08:34,01/04/2027 08:34
 0327f0e4-73fb-479d-ad9f-42a9193b74a3,thanksgiving.us,resell,,,84,13,12,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2027 23:59
+034ca139-3158-4494-bc29-ae40b5b48739,slowed.us,available,7.99,,48,3,6,name.com,,
 03aa8198-791d-4213-b200-5657de2871bf,sidewindow.us,available,7.99,,44,1,11,name.com,,
 04059b43-c497-47a6-bacf-7ea87a99ffd2,sobeit.us,resell,,,52,5,8,Dynadot Inc,14/11/2025 00:11,14/11/2026 00:11
 05006f01-6098-44e8-b85f-b509a609f70f,makeout.us,resell,,,76,4,8,Dynadot Inc,09/03/2021 00:01,09/03/2027 00:01
+05201888-a5ad-413d-8d69-e1c393bdd9d8,superheroes.us,resell,,,66,12,11,"Spaceship, Inc.",19/01/2024 00:00,19/01/2027 00:00
 058cbc68-6469-405d-8cfe-fc71294013fb,thebird.us,resell,,,58,6,8,Dynadot Inc,13/12/2022 00:00,13/12/2026 00:00
 05ac4297-b044-4339-850d-ee0e5578de6b,waitup.us,available,7.99,,63,2,7,name.com,,
 05bc446a-ab68-41d0-a056-9aabdc6248fd,rollout.us,resell,,,72,13,8,Dynadot Inc,21/03/2020 07:47,21/03/2027 07:47
+063231d2-82f0-4fd7-9a6d-0a4027824cd3,Amazons.us,available,5.49,7.99,60,12,7,namesilo,,
 0633de4b-5b3e-4e75-8ad3-865e4ae98e3c,leaks.us,resell,,,46,15,5,"GoDaddy.com, LLC",08/06/2004 09:20,07/06/2026 23:59
 0708bd02-2ea9-4e07-9b85-41818b36a137,headout.us,resell,,,82,6,8,"Spaceship, Inc.",01/04/2026 10:51,01/04/2027 10:51
 070a3d66-fff6-4d05-b8ab-64d5e3c2f1f5,tabs.us,resell,,,46,19,4,"Global Domains International, Inc. DBA DomainCostClub.com",07/06/2004 00:07,06/06/2027 23:59
@@ -26,13 +33,17 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d85a568-6bc1-43e0-8ab7-bf6bc262f0fd,toburn.us,available,7.99,,50,1,7,name.com,,
 0da64158-c818-4349-81b9-8b43a9288bb0,sucked.us,resell,,,54,4,6,"GoDaddy.com, LLC",01/02/2011 01:33,31/01/2027 23:59
 0deddfad-7e90-4a2b-a8ba-70eb91aafc6d,studs.us,resell,,,69,7,5,Dynadot Inc,31/10/2023 07:40,31/10/2026 07:40
+0e677fe1-9325-49c5-b984-d5fec032f46d,demotions.us,available,5.49,7.99,46,1,9,namesilo,,
+0ea8ea71-73c1-434e-9fc6-924d865af6b4,shortages.us,available,5.49,7.99,48,3,9,namesilo,,
 0efc0a00-0a7f-4b33-8f06-ad48267b1634,reached.us,resell,,,62,7,7,"Spaceship, Inc.",01/04/2026 08:53,01/04/2027 08:53
 0f84bc58-a6a8-488b-a343-cf6c472cc87a,hightech.us,resell,,,83,16,9,Dynadot Inc,19/08/2019 01:48,19/08/2026 01:48
 1074fb5c-6f72-4839-b85e-46b32f0156a1,advertises.us,available,7.99,,56,3,10,name.com,,
 10a33c40-ad13-4e18-9557-3837daaf4132,filingfees.us,available,5.49,7.99,46,1,11,namesilo,,
+10a5f14b-f92f-4292-a248-fe594c19890e,outofmyway.us,available,5.49,7.99,34,1,13,namesilo,,
 10c373e0-2960-4eed-a394-15985685b751,recycled.us,resell,,,79,10,8,Dynadot Inc,03/06/2005 17:10,02/06/2026 23:59
 1217e999-0cec-4d96-9c8e-fb27c7bdfc4b,gonegative.us,available,7.99,,66,1,11,name.com,,
 12a184e1-1e35-4b6e-92a0-f7fc88853395,cups.us,resell,,,60,12,4,GoDaddy Online Services Cayman Islands Ltd.,05/06/2004 14:19,04/06/2026 23:59
+12cc0f36-14dd-4285-96d5-abbf2715605c,hairdryers.us,resell,,,60,2,10,"GoDaddy.com, LLC",08/10/2020 21:37,08/10/2026 21:37
 130ed9b5-1468-4157-9e2f-aa9c82ad5676,solarenergy.us,resell,,,88,16,12,"GoDaddy.com, LLC",29/05/2005 17:09,28/05/2027 23:59
 13797fa4-420c-427d-b173-4bb604e62159,shakehands.us,available,7.99,,85,9,11,name.com,,
 150170bc-7d54-4662-bb86-b04647696716,slipitto.us,available,7.99,,64,1,10,name.com,,
@@ -50,6 +61,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b551172-4d51-4754-a51d-a6cb791bc5d0,doesnotcompute.us,available,7.99,,40,3,16,name.com,,
 1b578e07-57ca-4a84-bbe9-01e7911380f2,datadomain.us,available,7.99,,52,4,11,name.com,,
 1c1517be-c27a-4973-83d6-b32fcc59349d,ladies.us,resell,,,80,17,6,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2027 23:59
+1c758d3f-65aa-4442-a929-f3df38f1b1ce,bandits.us,resell,,,40,10,7,"Spaceship, Inc.",01/04/2026 12:48,01/04/2027 12:48
 1df7a3d3-18ab-45fb-8d93-70ad7cb85516,savinggrace.us,available,7.99,,76,7,12,name.com,,
 1e241ed9-78e0-47cc-97d8-a136b3743da2,keepunder.us,available,7.99,,66,1,10,name.com,,
 1ea3d850-dabe-4338-90ae-978a51f3021b,chickensoup.us,resell,,,84,4,12,"GoDaddy.com, LLC",05/06/2004 02:52,04/06/2026 23:59
@@ -58,6 +70,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2104432c-58c2-45f3-baa4-17c74a759bc3,blewit.us,available,7.99,,44,2,7,name.com,,
 21c80aab-782b-44d9-8f0d-53dfde42cd01,turnorburn.us,available,7.99,,56,1,12,name.com,,
 236c2131-51e5-43a6-8edb-3201b89c2a95,nauseousness.us,available,5.49,7.99,58,1,12,namesilo,,
+23dd3c06-fafe-4633-abf8-1392d7a5a8ec,mouthed.us,available,7.99,,63,1,7,name.com,,
 259a0c65-5f0a-4fa9-88e8-9268cb92f44d,overdressed.us,available,7.99,,64,3,12,name.com,,
 25c231ec-4c50-490a-a479-1f13101c9d25,childmurderer.us,available,7.99,,30,1,14,name.com,,
 25e19e2d-78ba-42dc-ab8c-36a71ac0cfad,railways.us,resell,,,51,6,8,"GoDaddy.com, LLC",26/04/2002 15:40,25/04/2027 23:59
@@ -83,6 +96,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 32eeb9d5-52ca-4512-a29d-b4224e00f19c,etc.us,resell,,,58,34,3,Tucows Domains Inc.,24/04/2002 14:11,23/04/2027 23:59
 333d9231-6efd-4a09-b9c9-908e16acc13b,goforit.us,resell,,,76,11,9,"Spaceship, Inc.",08/06/2022 00:00,08/06/2026 00:00
 339a9fc5-4871-4944-9ed7-08b35219fb3b,punched.us,resell,,,50,3,7,"Spaceship, Inc.",01/04/2026 21:40,01/04/2027 21:40
+348b5ccd-5cae-4adf-8e9c-32f176c9f5c7,goingout.us,resell,,,54,5,9,"Spaceship, Inc.",01/04/2026 06:32,01/04/2027 06:32
 35cecc4d-5967-4f6b-9dcd-a1d1838cd8e0,mistakenidentity.us,available,7.99,,52,2,17,name.com,,
 361de201-3129-438d-9a7a-27240072f06f,parkingfine.us,available,7.99,,46,2,12,name.com,,
 36925450-15d2-454f-bb7f-554671fa5105,havemercy.us,available,7.99,,80,2,10,name.com,,
@@ -103,6 +117,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3f288f2c-434e-43b8-b859-33b98d9475cb,waitout.us,available,7.99,,63,1,8,name.com,,
 3f28b8b0-dd69-437b-9541-a63c70212d0a,BRAS.us,resell,,,70,13,4,Dynadot Inc,19/02/2018 00:04,19/02/2027 00:04
 3f7c94f3-0323-4aa0-aa56-5d7d7f48f815,scratches.us,available,7.99,,60,4,9,name.com,,
+3fde606f-5d91-4a48-9f30-c862e4a6ea8d,deteriorates.us,available,5.49,7.99,38,1,12,namesilo,,
+410a76ca-d1ae-4092-b081-b102fe7b955c,squalls.us,available,7.99,,44,2,7,name.com,,
 415805e3-dc59-48e5-b8e6-6cd834fa548f,brothers.us,resell,,,60,22,8,"Global Domains International, Inc. DBA DomainCostClub.com",20/10/2007 18:01,19/10/2027 23:59
 4167797e-5570-4c81-9a5f-529d4de572dd,suspecting.us,available,7.99,,48,1,10,name.com,,
 417c64af-2a4e-41e9-8785-7ee8b362eeb8,MardiGras.us,resell,,,78,10,10,Dynadot Inc,24/04/2002 14:04,23/04/2027 23:59
@@ -110,13 +126,16 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 426f3fe1-75e8-4d8f-a474-b2a6a2336640,havenot.us,available,5.49,7.99,66,4,8,namesilo,,
 42aba373-b97f-446e-8cf3-4bccd5a86cf0,distresscall.us,available,7.99,,32,1,13,name.com,,
 42e9117b-6a20-4467-87fe-3847c5eb1b6a,turnedoff.us,available,7.99,,42,1,10,name.com,,
+437e8de0-23ef-4672-90da-c7144d9474d0,demoting.us,available,5.49,7.99,46,1,8,namesilo,,
 4446ec27-660f-4d7e-85f7-c055691a133f,footballs.us,resell,,,64,5,9,Dynadot Inc,28/08/2018 00:10,28/08/2027 00:10
+44607021-6308-48f0-abf0-6cb24fe04b8c,ranted.us,available,7.99,,48,2,6,name.com,,
 44d5fe06-72a1-453e-9212-d62759efd953,workouts.us,resell,,,59,8,8,"GoDaddy.com, LLC",24/04/2002 15:22,23/04/2027 23:59
 472a684f-23ad-4c39-8201-5ce56449dc5f,slipoff.us,available,7.99,,65,1,8,name.com,,
 47472ec0-bc07-4fac-a3fc-7ff636b2fe52,gonowherefast.us,available,7.99,,50,1,15,name.com,,
 481b6e74-06e1-43d0-a49e-a68742076715,shells.us,resell,,,58,9,6,"GoDaddy.com, LLC",02/06/2004 18:00,01/06/2026 23:59
 4824144b-6341-4836-a2e6-0e232e4640d5,ghosts.us,resell,,,48,14,6,"GoDaddy.com, LLC",09/07/2008 18:07,08/07/2026 23:59
 48eb9fed-4e93-490e-a46a-50913270666e,ovens.us,resell,,,55,6,5,Dynadot Inc,26/09/2015 18:02,25/09/2026 23:59
+4a7a9d02-e072-454d-b703-20a3512bf6f1,constraints.us,available,5.49,7.99,44,2,11,namesilo,,
 4b32c728-8eeb-43df-997b-22013c9dc05e,whats.us,resell,,,58,24,5,"Spaceship, Inc.",04/10/2023 00:00,04/10/2026 00:00
 4c31f1b6-c71f-4ed6-a552-d41f33a9dd41,machines.us,resell,,,56,22,8,Dynadot Inc,24/04/2002 14:18,23/04/2027 23:59
 4c9be6fc-595a-48c4-9e83-22ec5ba912f6,godownhill.us,available,7.99,,68,1,11,name.com,,
@@ -124,20 +143,26 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4e195d0e-f61f-409c-b12e-229b3b120199,shouts.us,resell,,,47,5,6,"Spaceship, Inc.",01/04/2026 09:32,01/04/2027 09:32
 4e9ce8ed-3d81-4958-828e-903cf37995b7,IChing.us,resell,,,68,14,7,GrepApps Technology Inc.,06/07/2025 00:00,06/07/2026 00:00
 4f78508b-b0eb-4a8c-a77a-60a3999a6679,sellthrough.us,available,7.99,,64,2,12,name.com,,
+4fd7c181-cd53-410e-abe1-c9761277bb43,cuddles.us,resell,,,71,10,7,"Spaceship, Inc.",22/08/2024 08:51,22/08/2026 08:51
 4ff538af-f4e2-4f21-8aaf-1d374458d5ac,beridof.us,available,7.99,,46,1,9,name.com,,
 51706b02-3d2d-42bb-86b6-d98090c1fcca,havenoneofit.us,available,7.99,,56,1,15,name.com,,
 52042c28-bd0c-48e9-a9fe-6fe10b774433,prejudices.us,available,7.99,,38,1,10,name.com,,
 5367b3ed-14c0-4661-b192-2d08cc8cd80d,getmarried.us,resell,,,88,5,11,"Spaceship, Inc.",01/04/2026 07:46,01/04/2027 07:46
+53b6ce1e-c3d6-4ca0-959a-4ce44b50fc87,radioed.us,available,7.99,,50,1,7,name.com,,
 5445054e-1cd5-4a1e-b062-bdb8b16f139c,overanxious.us,available,7.99,,64,1,12,name.com,,
 54d4b2fd-0ab7-4760-9efb-d33b725c8ca9,collapses.us,available,5.49,7.99,38,1,9,namesilo,,
 54f16995-d15e-4019-8c4c-6e1621a4e0a6,goingto.us,resell,,,56,6,8,"Spaceship, Inc.",02/04/2026 15:47,02/04/2027 15:47
 54fb4890-57fb-4942-a0f1-51b09bab805a,whitewater.us,resell,,,82,17,11,"GoDaddy.com, LLC",24/04/2002 15:14,23/04/2027 23:59
+552b40f7-40cd-419e-b5f6-141488c3fd42,ElNino.us,resell,,,66,8,7,"Sav.com, LLC - 5",19/06/2025 17:40,19/06/2026 17:40
 5670dcaf-4567-4beb-807d-53a7cadff91b,watched.us,resell,,,74,7,7,"Spaceship, Inc.",01/04/2026 07:39,01/04/2027 07:39
 56cd4d1d-f2aa-46ab-9ce5-35643a56734c,lets.us,resell,,,77,39,4,1API GmbH,03/12/2024 00:00,03/12/2026 00:00
+586df767-46a3-4874-8fe1-6c9224fe4fd1,highschools.us,resell,,,65,4,12,Dynadot Inc,24/04/2002 14:27,23/04/2027 23:59
 5934fc59-88bc-4c80-8ba7-0d1382e9b9f1,rekt.us,resell,,,40,24,4,Porkbun,05/11/2020 00:01,05/11/2026 00:01
+59fc3a66-20b3-47fb-9283-1a3efb5a55e1,collapsing.us,available,5.49,7.99,38,3,10,namesilo,,
 5b39d8a1-e811-402a-81a6-4b8ab1511921,estateagency.us,resell,,,42,4,13,"Spaceship, Inc.",01/04/2026 08:03,01/04/2027 08:03
 5bbac396-538a-40e9-97da-224d9e9dc384,notices.us,resell,,,48,6,7,Dynadot Inc,15/12/2019 00:36,15/12/2026 00:36
 5bfe5f67-4a76-4ed6-8124-2e51869aebcc,filesize.us,available,7.99,,64,2,9,name.com,,
+5d713c52-321c-4e14-9df9-f63feb39e8a6,squealed.us,available,7.99,,40,1,8,name.com,,
 5e21cccd-8428-4340-bd5e-70c9b8233662,provides.us,resell,,,56,5,8,GoDaddy Online Services Cayman Islands Ltd.,07/12/2011 18:35,06/12/2026 23:59
 5f28e55b-2483-4aca-af64-a34a540625da,filetype.us,available,7.99,,64,3,9,name.com,,
 5f30773a-e89b-420a-9e20-020ae9b3242e,senses.us,resell,,,63,13,6,"Spaceship, Inc.",17/02/2025 00:00,17/02/2027 00:00
@@ -146,6 +171,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 615a5b1b-1ace-4552-a168-478e8f54ebb8,Ichooseviolence.us,available,10.98,,44,1,17,namecheap,,
 636d319f-3b02-4de3-a01b-a122c6a3c116,sanctions.us,resell,,,52,8,9,Epik LLC,18/08/2013 00:25,17/08/2026 23:59
 63f40335-1a3a-40fc-8a7d-4ee0db033a07,uptill.us,available,7.99,,50,1,7,name.com,,
+64a8db44-1b5d-4dad-8fd6-fe9bd799b799,tirades.us,available,7.99,,46,1,7,name.com,,
 64b3a25c-8c07-4a34-8f21-fd7a411964b8,cements.us,available,5.49,7.99,56,3,7,namesilo,,
 65aa0083-f902-4fd0-94b4-0a6d40aae7e3,gooverboard.us,available,7.99,,64,1,12,name.com,,
 65be58f5-7158-46be-a69a-b56122aaf889,prints.us,resell,,,54,18,6,"Global Domains International, Inc. DBA DomainCostClub.com",24/04/2002 14:18,23/04/2027 23:59
@@ -164,14 +190,17 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 69eb385b-d3d0-481b-8d5f-fd939aba6ebb,accountspayable.us,resell,,,62,4,16,GoDaddy Online Services Cayman Islands Ltd.,30/09/2011 20:08,29/09/2026 23:59
 6c456d16-042a-4593-8634-9633dcec04d5,lunchtime.us,resell,,,78,8,10,"Sav.com, LLC - 9",25/03/2026 00:00,25/03/2027 00:00
 6c8b3696-1dcb-4031-81e1-cbbc45dfc36a,swords.us,resell,,,52,10,6,Dynadot Inc,18/08/2014 18:05,17/08/2026 23:59
+6c9719d7-0696-4f7d-b804-7d547833f71f,informers.us,available,5.49,7.99,52,3,9,namesilo,,
 6d4577bf-d9bd-4e65-b6f7-00539c136124,thefixisin.us,available,7.99,,38,1,13,name.com,,
 6e4ba954-0e40-4de0-8815-f4ab64e13241,WorldWarIV.us,available,10.98,,52,1,12,namecheap,,
 6e86d51f-3bfb-448c-8dfe-80254a2c68ed,fullfrontalnudity.us,available,7.99,,48,1,19,name.com,,
 6eaa3be0-8065-49fd-aa19-6d9cddf38581,eyeshadow.us,resell,,,74,3,10,Dynadot Inc,13/08/2019 15:27,13/08/2026 15:27
 6fbf6843-e309-43a9-bce1-708eebf76d7f,slipin.us,available,7.99,,65,2,7,name.com,,
+6fe9ebc0-255a-400d-8169-acf12ceb8e1c,wafers.us,resell,,,54,4,6,Dynadot Inc,17/01/2023 00:00,17/01/2027 00:00
 70d91ebd-aeec-49ef-9989-eadd2b71d2f7,havenosympathy.us,available,7.99,,54,1,16,name.com,,
 7135ec90-68dc-4114-9f8a-9c157a1dca45,paperingover.us,available,7.99,,53,1,13,name.com,,
 72ae7fb4-22d6-4717-962e-e0747c30c3c1,smashdown.us,available,7.99,,58,2,10,name.com,,
+72b1c256-03d1-420f-9648-f07f5e6dfbef,gonedownthetube.us,available,5.49,7.99,30,1,18,namesilo,,
 73016b69-d982-49cd-a736-2d0e24e25852,gototherestroom.us,available,7.99,,56,1,18,name.com,,
 731901ee-3cd0-4562-8f26-0cdab1f2e405,stuffyou.us,available,7.99,,44,1,9,name.com,,
 736f3f04-00ea-4c69-a117-354b51191865,proxymurder.us,available,7.99,,36,1,12,name.com,,
@@ -197,6 +226,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7f049bcc-0966-4c83-9a0c-37e0897cf069,theories.us,resell,,,58,6,8,"Spaceship, Inc.",01/04/2026 12:50,01/04/2027 12:50
 822050c1-3c49-4866-969b-0cb5ab375d9f,necessities.us,resell,,,58,4,11,GoDaddy Online Services Cayman Islands Ltd.,27/09/2011 18:06,26/09/2026 23:59
 82d04350-fb9e-4d0e-a6ea-d660f8071707,sharps.us,resell,,,70,9,6,"Spaceship, Inc.",02/04/2026 09:37,02/04/2027 09:37
+83160ac9-0b59-47e5-82d8-bbb5c32a43be,rioted.us,available,7.99,,44,1,6,name.com,,
 836dedf1-711e-48ec-bd5a-08cf033568eb,functions.us,resell,,,54,12,9,Dynadot Inc,05/07/2021 00:01,05/07/2026 00:01
 83804718-27fb-495c-99f6-d69bbad79315,referredto.us,available,7.99,,46,1,11,name.com,,
 83ac2fdf-adfc-4259-9940-41e99e47f8cc,somuchfor.us,available,7.99,,46,0,11,name.com,,
@@ -205,6 +235,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 83e3667e-90e0-4de7-8f24-873d78fb989e,overanxio.us,resell,,,64,1,12,"GoDaddy.com, LLC",01/11/2012 19:00,31/10/2027 23:59
 83e80fc6-290d-44ee-ac3c-347ed7aed5e2,threats.us,resell,,,44,8,7,"GoDaddy.com, LLC",14/02/2018 00:57,14/02/2027 00:57
 840226ce-0fdb-4963-88e4-c986b422920a,counterfeits.us,available,5.49,7.99,40,2,12,namesilo,,
+8413285c-df4f-4183-a61a-f2739e51a2d3,reviewers.us,resell,,,56,6,9,"GoDaddy.com, LLC",06/11/2013 17:53,05/11/2026 23:59
+8451e245-2459-4951-a89f-a4b89aac3b47,prisms.us,resell,,,56,7,6,Dynadot Inc,06/07/2023 07:50,06/07/2027 07:50
 8484f1df-325c-46f3-9114-791f135098b0,started.us,resell,,,60,11,7,"Spaceship, Inc.",13/06/2024 00:00,13/06/2026 00:00
 84c77b75-f07c-4192-8c43-66e04b9e9cca,yams.us,resell,,,56,10,4,"Spaceship, Inc.",07/12/2022 00:01,07/12/2026 00:01
 85be2114-551f-4aa5-9c08-8e11ee9f4f46,dropabombshell.us,available,7.99,,58,0,16,name.com,,
@@ -213,6 +245,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 869b55bd-4a26-4eff-8077-61719e346e00,bros.us,resell,,,58,19,4,"Global Domains International, Inc. DBA DomainCostClub.com",10/07/2008 18:02,09/07/2027 23:59
 87466473-fb3d-4f3f-a16e-f4e77dc0bf83,ive.us,resell,,,62,16,3,"GoDaddy.com, LLC",24/09/2014 20:01,23/09/2026 23:59
 878c2ca3-f6d2-41ad-a44b-846c38cea5ee,havenobusiness.us,available,7.99,,60,1,16,name.com,,
+87bd926f-cc59-47ab-979e-d0e5a3a63115,cheesecakes.us,resell,,,60,4,11,Dynadot Inc,08/09/2023 16:43,08/09/2026 16:43
 88f0431d-aaff-4a34-aa65-41a462426d98,stages.us,resell,,,57,12,6,Dynadot Inc,30/11/2020 00:01,30/11/2026 00:01
 89897ae5-25ec-42b3-8091-9602dc84e427,thereaway.us,available,7.99,,58,1,10,name.com,,
 89a966d8-f92a-4d6f-af79-d9cee3ff8b2e,highwater.us,resell,,,66,7,10,Dynadot Inc,30/05/2021 00:01,30/05/2026 00:01
@@ -220,6 +253,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8ae5b8ae-3362-43b8-9dc4-fcccae9fc2cc,alcoholpoisoning.us,available,7.99,,48,1,17,name.com,,
 8b25b0b2-4935-4b9c-a4d7-e822ca494ddd,lostandfound.us,resell,,,64,19,14,"GoDaddy.com, LLC",27/09/2017 22:05,27/09/2026 22:05
 8b59f90d-15f9-4a95-8b70-abafa4779c5e,getonboard.us,resell,,,64,11,12,"Spaceship, Inc.",01/04/2026 10:17,01/04/2027 10:17
+8c4c4d78-053d-4b51-ab33-07d7c04acd40,budgets.us,resell,,,60,7,7,"GoDaddy.com, LLC",29/04/2002 12:56,28/04/2027 23:59
 8c9981ac-49f5-49e4-aa40-bfeff1e10893,lactoseintolerance.us,available,7.99,,56,2,19,name.com,,
 8e456546-4912-4dc5-b687-b39fba2b636e,rumorhasit.us,available,7.99,,47,2,12,name.com,,
 8e55a3ef-55f3-4dd9-94ca-47f468b71aeb,givingin.us,available,7.99,,50,1,9,name.com,,
@@ -234,8 +268,15 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 94213ebb-7a86-4523-b5b3-11800d4ad455,slipthrough.us,available,7.99,,66,1,12,name.com,,
 94d46a1d-0cea-4800-9878-5a6f2f486ba7,flashfloods.us,available,5.49,7.99,42,1,12,namesilo,,
 95b7c198-5370-47c1-aff1-2dc99dc9611a,shovels.us,resell,,,47,5,7,"GoDaddy.com, LLC",09/06/2004 02:35,08/06/2026 23:59
+96164c59-33c4-4680-837b-76dad1063637,disappointments.us,available,5.49,7.99,30,1,15,namesilo,,
+97ccb298-d994-4d2d-bbab-ee9f59bd8495,dusts.us,available,5.49,7.99,52,3,5,namesilo,,
+9852ed4f-8de5-4bca-af0c-3517c8386e12,stormed.us,available,7.99,,50,3,7,name.com,,
+98b61d16-0e57-4204-9d53-59d490666a9c,penandpaper.us,available,5.49,7.99,64,7,13,namesilo,,
+9c088264-d45f-4e41-bf73-49dc5870aae8,introductions.us,resell,,,56,4,13,"Spaceship, Inc.",01/04/2026 08:49,01/04/2027 08:49
+9c2381c9-30df-4765-89ca-9b4d2e3b0d90,goplaces.us,resell,,,74,5,9,"Spaceship, Inc.",01/04/2026 09:43,01/04/2027 09:43
 9c24015a-b3cb-446b-ae24-e7d3d0c239d9,manuallabour.us,available,7.99,,58,1,13,name.com,,
 9da4468a-cd0d-4762-a197-a62f0d7322d8,backtaxes.us,available,7.99,,62,3,10,name.com,,
+9da4d0a7-1e17-44a4-ab35-f79bc346b812,ratios.us,available,5.49,7.99,46,5,6,namesilo,,
 9dd89da7-91de-41e6-b813-87b2789bbb1e,runners.us,resell,,,78,16,7,"GoDaddy.com, LLC",25/04/2002 15:18,24/04/2027 23:59
 9e19f22b-2d96-437e-88ab-86675040a04e,storms.us,resell,,,60,10,6,GoDaddy Online Services Cayman Islands Ltd.,31/05/2004 08:58,30/05/2027 23:59
 9e33e835-cf55-4f5e-9fec-108250d66172,spillover.us,available,7.99,,68,4,10,name.com,,
@@ -255,6 +296,7 @@ a550a907-15ea-431e-a80e-354a79b0c35f,gotothewashroom.us,available,7.99,,56,1,18,
 a5af638f-f5a8-4901-abc5-06ef71c4cab7,takedown.us,resell,,,74,11,9,Dynadot Inc,29/10/2022 00:00,29/10/2026 00:00
 a5da1ccb-f982-456a-bcc1-0f288675806d,flashflooding.us,available,7.99,,52,0,14,name.com,,
 a5ebbad5-fb70-429a-80e5-68fea3c2af64,costcutting.us,available,7.99,,64,3,12,name.com,,
+a6912631-0f46-44de-b606-1b8d323075dc,oppositions.us,available,5.49,7.99,48,2,11,namesilo,,
 a75ed680-58ca-4176-adcc-cbaf93da2a1b,stackup.us,resell,,,64,11,8,Dynadot Inc,09/09/2022 00:00,09/09/2026 00:00
 a83de0ae-e098-4215-9560-af5936c6be2b,midlife.us,resell,,,74,11,8,Dynadot Inc,26/08/2023 00:00,26/08/2026 00:00
 a86dc4d8-6a0e-4502-a32b-326cf7529bac,bosses.us,resell,,,54,8,6,"Spaceship, Inc.",01/04/2026 11:39,01/04/2027 11:39
@@ -262,6 +304,8 @@ a8b8e822-883b-4835-9fd7-9f4054c68a79,sexlife.us,available,7.99,,74,6,8,name.com,
 a8dd28ac-a08c-4be4-a44d-5cb2c57f8f94,wastes.us,available,7.99,,50,4,6,name.com,,
 a9d75f12-014d-43a3-8b39-378d25ed6b97,goberserk.us,available,7.99,,68,1,10,name.com,,
 aa191498-fa95-496c-996e-9eda100b4db0,instate.us,resell,,,66,4,8,"Spaceship, Inc.",01/04/2026 08:28,01/04/2027 08:28
+aa4775fe-361a-4b5b-80ce-23dbc72beb11,streamed.us,resell,,,73,9,8,Dynadot Inc,08/11/2020 05:11,08/11/2027 05:11
+aaa4ae28-ef3d-44d7-876c-996af2f29ae2,weekends.us,resell,,,64,8,8,"Spaceship, Inc.",15/12/2021 00:00,15/12/2026 00:00
 ab456cfb-d6e3-4b89-860b-3392ee8c6ef8,photos.us,resell,,,54,28,6,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2027 23:59
 ab4b81f5-b909-4269-bb69-a033580c118b,startover.us,resell,,,78,6,10,Dynadot Inc,11/02/2023 20:37,11/02/2027 20:37
 ab8b523c-96f2-4538-9ef8-c82a7e4223d2,profitability.us,resell,,,76,8,13,GoDaddy Online Services Cayman Islands Ltd.,01/10/2011 18:06,30/09/2026 23:59
@@ -269,9 +313,13 @@ abe1b2ae-abd4-498a-8c59-f16865bbaa5f,appreciation.us,resell,,,88,13,12,"Spaceshi
 ac3874a6-d214-41bb-a284-4474b94a9084,sticks.us,resell,,,60,11,6,Dynadot Inc,29/12/2018 08:43,29/12/2026 08:43
 ad33e027-8fed-4a75-bb10-13af5236e195,pans.us,resell,,,52,8,4,"GoDaddy.com, LLC",24/04/2002 16:19,23/04/2027 23:59
 ad586618-b0a3-4ab4-93e5-0f6c8e5cf442,filewith.us,available,7.99,,68,2,9,name.com,,
+ad5f10f3-986d-432e-b8e6-b8ea7ca00d1f,barns.us,resell,,,50,7,5,"GoDaddy.com, LLC",24/04/2002 17:01,23/04/2027 23:59
 ad79cf9c-cb76-41cd-82e4-c433bc0384fd,determination.us,resell,,,70,9,13,"Spaceship, Inc.",06/06/2024 20:40,06/06/2026 20:40
+adff69ea-0dfa-4be5-892b-3ab195489716,childsextourism.us,available,5.49,7.99,30,1,17,namesilo,,
 ae458694-92ab-4424-b6cc-d6628618cf4e,deaths.us,available,5.49,7.99,50,6,6,namesilo,,
 ae823e30-1af6-4e7d-bda8-4bff36c0da9d,norms.us,available,7.99,,45,7,5,name.com,,
+ae8996a4-b03d-4dc8-93b3-4dbbd50dbbc3,magicians.us,resell,,,60,8,9,GoDaddy Online Services Cayman Islands Ltd.,09/07/2006 18:08,08/07/2027 23:59
+aea151e0-d1f9-4b70-b983-3c2846b02b83,taxfree.us,resell,,,68,11,8,"Spaceship, Inc.",15/10/2024 00:02,15/10/2026 00:02
 aeb8eeea-5b4b-49ce-8d9c-f2efb9cd83d6,cometogether.us,resell,,,70,10,13,Dynadot Inc,31/10/2019 13:26,31/10/2026 13:26
 aeff8976-f663-494c-ba01-f6c044549493,grands.us,resell,,,66,8,6,"Spaceship, Inc.",01/04/2026 10:35,01/04/2027 10:35
 af847f31-a468-44c4-a8e7-496b3bd8524f,gettingeven.us,available,7.99,,48,1,12,name.com,,
@@ -281,11 +329,13 @@ afd8ff6b-1eb0-459f-bce3-37613103184d,trends.us,resell,,,60,32,6,"GoDaddy.com, LL
 b0073432-35de-4834-99c1-3522a1ff1434,fanmail.us,available,7.99,,74,7,8,name.com,,
 b0160a59-bf52-42ce-97f0-76395273f90c,rolemodel.us,resell,,,85,6,10,Dynadot Inc,23/09/2021 00:00,23/09/2026 00:00
 b15ac1ba-f669-46c6-bd2c-6051718bc2a1,textmessages.us,resell,,,52,3,13,"GoDaddy.com, LLC",14/08/2006 18:04,13/08/2026 23:59
+b16f0f8e-ea54-455e-889a-cf6bd6fcb4a8,reprimanded.us,available,5.49,7.99,42,1,11,namesilo,,
 b32eb02d-990c-4d2b-a4e5-920fa1391d7f,getsick.us,available,7.99,,72,1,8,name.com,,
 b3f2aa91-9cdc-4362-97ef-c5827ca4f029,sawoff.us,available,7.99,,60,1,7,name.com,,
 b4694c38-d90d-479e-a050-e4964391961b,havetheblues.us,available,7.99,,58,1,14,name.com,,
 b4a59d85-ed43-4724-a708-97c17b645d0d,finds.us,resell,,,62,16,5,"GoDaddy.com, LLC",21/03/2019 02:15,21/03/2027 02:15
 b4dc9456-935f-4213-920c-f75569d08bf7,structurally.us,available,7.99,,48,3,12,name.com,,
+b5b70452-3a9d-49e9-a6cf-f4ea055b0d63,mortars.us,available,5.49,7.99,40,2,7,namesilo,,
 b6f41be3-0f72-4646-8377-344fa5d71d1a,couldnotcareless.us,available,7.99,,38,0,19,name.com,,
 b801d4fc-252a-4f80-9197-7afd10730691,knees.us,resell,,,50,5,5,"GoDaddy.com, LLC",10/01/2019 06:01,10/01/2027 06:01
 b8d46bbb-829c-49fb-b6dd-432c33b6df3e,rivals.us,resell,,,48,20,6,"Spaceship, Inc.",30/09/2024 00:02,30/09/2026 00:02
@@ -295,17 +345,25 @@ ba123349-0d2a-493d-8625-a28f73ee6496,apartments.us,resell,,,60,21,10,Dynadot Inc
 ba4eef49-4e32-4800-b208-3d95eac995bf,flipped.us,resell,,,52,12,7,"Spaceship, Inc.",03/06/2021 00:23,03/06/2026 00:23
 baa85f3b-4f04-4c8e-a216-3827a72479d6,Iwish.us,resell,,,58,12,6,"Spaceship, Inc.",16/09/2022 00:00,16/09/2026 00:00
 bab9ecd3-8ab2-4deb-aaba-8e50a1210716,offenses.us,resell,,,40,2,8,"GoDaddy.com, LLC",27/05/2002 15:15,26/05/2027 23:59
+bad2bdef-0031-4e95-bcd0-0eef26e08072,disappoints.us,available,5.49,7.99,36,1,11,namesilo,,
 bb307df0-12ed-480a-8246-2bfd907b79eb,highsociety.us,resell,,,73,8,12,"Sav.com, LLC - 3",24/06/2025 00:00,24/06/2026 00:00
 bb83b675-840b-4409-8a0d-c0b6b145d491,cheesedown.us,available,7.99,,62,0,11,name.com,,
+bd1924b6-c853-435c-94cb-10c36fb32df1,typewriters.us,resell,,,56,4,11,Dynadot Inc,10/10/2024 15:24,10/10/2026 15:24
 be405718-860c-418c-a51e-733efc8317ce,Ihavecancer.us,available,10.98,,44,2,13,namecheap,,
 bf586c70-f457-4b8c-9507-09bcc1445ca7,backyard.us,resell,,,80,27,9,"GoDaddy.com, LLC",24/04/2002 14:14,23/04/2027 23:59
 c000ecb4-10b0-4348-b1e1-5ed8de4ea461,costcontainment.us,resell,,,42,2,16,"GoDaddy.com, LLC",29/03/2018 18:19,29/03/2027 18:19
+c031c8cd-c206-4b9d-b526-1c391d2ec416,collapsed.us,available,7.99,,38,3,9,name.com,,
 c0a3a492-7ca5-4093-872a-3155d1b003e6,GoldenValley.us,resell,,,58,6,13,Dynadot Inc,29/09/2021 00:00,29/09/2026 00:00
 c0e93e46-be12-4709-8062-92fc3cc41576,Jews.us,resell,,,50,12,4,Dynadot Inc,24/04/2002 14:05,23/04/2027 23:59
+c1541f68-c335-49ee-86c1-bc6ef923de19,twits.us,available,5.49,7.99,46,3,5,namesilo,,
 c1f379d0-400d-48c5-a270-e65720773bfa,thesame.us,resell,,,54,5,8,"Spaceship, Inc.",01/04/2026 11:54,01/04/2027 11:54
 c2525f2b-86da-4c47-a49a-8c4179f179c8,filed.us,resell,,,48,7,5,Sav.com LLC,11/01/2024 18:41,11/01/2027 18:41
+c4652ed0-c924-4c1e-9bad-abe2c048a3c0,packs.us,resell,,,54,15,5,Dynadot Inc,05/12/2021 00:00,05/12/2026 00:00
 c469b616-6ff3-4a69-95e0-c16dfb004318,reston.us,resell,,,75,10,7,Dynadot Inc,23/12/2021 00:00,23/12/2026 00:00
+c5590a35-8b1e-405a-8890-8227fb92a0c7,shorted.us,resell,,,61,4,7,"Spaceship, Inc.",01/04/2026 18:20,01/04/2027 18:20
+c5a0360c-821c-4601-9327-ddffee791f38,stalled.us,available,7.99,,48,3,7,name.com,,
 c6ae8a44-989f-4fa4-8412-57241633c698,packup.us,resell,,,76,5,7,"Spaceship, Inc.",01/04/2026 10:51,01/04/2027 10:51
+c7c3ef44-20c2-4ecd-a056-4b0891b3b108,demotes.us,available,5.49,7.99,46,1,7,namesilo,,
 c7d253fa-771c-4337-880a-b4dea63ec2e8,alcoholusedisorder.us,available,7.99,,48,1,20,name.com,,
 c80d1071-2e40-43d5-a10f-2c43b18ecc7e,stayathome.us,resell,,,68,7,12,"Spaceship, Inc.",29/05/2022 20:11,29/05/2026 20:11
 c82404dd-9ed0-4b24-9ed1-083749b0cf57,gomissing.us,available,7.99,,70,1,10,name.com,,
@@ -315,21 +373,28 @@ ca4abc8a-c037-4ba7-b5e7-210d0a09d8c8,toexcess.us,available,7.99,,55,0,9,name.com
 caeaaf95-a28a-4c9d-989d-89a07501a854,died.us,resell,,,40,6,4,"Spaceship, Inc.",30/10/2022 19:28,30/10/2026 19:28
 cb0c3713-9799-4aa7-b63c-45c1d7b9dd13,proxycard.us,available,7.99,,44,2,10,name.com,,
 cb1b8117-c45a-4d3b-b5d5-02ee47d15f96,howthedevil.us,available,7.99,,40,0,13,name.com,,
+cb1daf6a-d5be-4867-89cb-7df88ac9e1f2,disobeying.us,available,5.49,7.99,46,1,10,namesilo,,
 cb2005c3-6db9-4b82-a44d-e1e4324cde00,gomad.us,available,5.49,7.99,70,5,6,namesilo,,
 cb326c23-3d90-4330-a202-b7824d4dab0b,takealeak.us,available,7.99,,63,1,11,name.com,,
+cb72cb59-4543-48b7-9c07-bb799726bd9a,starkest.us,available,5.49,7.99,40,2,8,namesilo,,
 ccb44137-6819-4ef8-b342-dc313181f5bb,keepitdown.us,available,7.99,,46,0,12,name.com,,
 cd4755d9-f2fe-4f5e-bdc5-0df475c91fea,unsettles.us,available,5.49,7.99,43,1,9,namesilo,,
+cf3044be-22d1-46e3-8a3b-a867b58728a7,knocks.us,resell,,,48,5,6,"Spaceship, Inc.",01/04/2026 16:38,01/04/2027 16:38
 cf8e8ab0-1931-4726-b08d-738f439b50dd,drapes.us,resell,,,76,5,6,Dynadot Inc,24/04/2002 14:09,23/04/2027 23:59
 cfab114b-3ac5-43c2-a061-6e59f7fa90ae,letup.us,available,7.99,,74,3,6,name.com,,
 d07f07e1-217f-4f3a-a4c9-9802aff793af,razorburn.us,available,7.99,,60,1,10,name.com,,
 d0d8aed1-7c76-4641-9658-dae0f334906d,gonuts.us,resell,,,76,8,7,"Sav.com, LLC - 9",03/02/2026 00:04,03/02/2027 00:04
 d118388d-a58e-4c4e-8d59-b709f358a107,deadonarrival.us,available,7.99,,46,2,15,name.com,,
+d25f8d5b-e9e1-4e12-a754-6bb8bceb1c22,prowlers.us,available,5.49,7.99,40,2,8,namesilo,,
+d3be395a-cf33-4e38-a886-479dc18a416e,bottoms.us,resell,,,60,7,7,Dynadot Inc,26/09/2022 00:00,26/09/2026 00:00
 d4bc4657-d626-45c7-a8bc-3bed49944562,entered.us,resell,,,50,4,7,GoDaddy Online Services Cayman Islands Ltd.,21/10/2011 01:20,20/10/2026 23:59
 d4bd38c0-5def-47d3-859d-4907cb4ab586,privatestock.us,available,7.99,,64,5,13,name.com,,
 d4d72310-4028-4c08-9173-4e65e8cc1b14,snowballs.us,resell,,,59,7,9,"Spaceship, Inc.",01/04/2026 12:35,01/04/2027 12:35
 d5470499-9a1b-4202-a111-d4b12a17d74b,WestCoast.us,resell,,,70,21,10,"GoDaddy.com, LLC",12/08/2016 19:13,11/08/2026 23:59
 d59941dc-4fae-4ad6-8fb9-4cc760a31bc6,NewTaipei.us,available,10.98,,73,3,10,namecheap,,
+d600340b-7c59-412f-888b-f5760992a457,goingbad.us,available,5.49,7.99,46,1,9,namesilo,,
 d62961d4-9f63-473b-9223-58b8ea8e87b4,thoughts.us,resell,,,65,18,8,Dynadot Inc,11/12/2019 00:09,11/12/2026 00:09
+d6b54a81-b821-417f-989a-605642675acf,windmills.us,resell,,,61,5,9,"GoDaddy.com, LLC",29/04/2002 14:15,28/04/2028 23:59
 d6d6e558-0d53-4d09-8344-2a989eac42d6,noses.us,resell,,,48,3,5,"Spaceship, Inc.",02/04/2026 04:14,02/04/2027 04:14
 d6fca197-23bb-4193-a22b-912e551ad2dd,hangbyathread.us,available,7.99,,56,1,16,name.com,,
 d7570e42-5a5e-4558-b47e-9b9b8156282e,suppresses.us,available,7.99,,44,1,10,name.com,,
@@ -339,7 +404,9 @@ d9fe3588-39a9-4926-b259-ccb94b93a82e,backstretch.us,available,7.99,,74,3,12,name
 da48d9b8-5b7a-4eff-b344-25975cfddc37,bedamned.us,available,7.99,,38,1,9,name.com,,
 da99e49a-d18f-4597-aafc-c70dbad0a703,TyphoidMary.us,available,10.98,,59,1,12,namecheap,,
 db2c7ecc-a1a2-4f40-9b28-99701ad53ec2,Iwould.us,available,10.98,,58,12,7,namecheap,,
+db6e0a60-5778-4b6e-9d91-49bcd7554edd,drycleaning.us,resell,,,74,9,11,"GoDaddy.com, LLC",05/06/2004 13:23,04/06/2026 23:59
 dbc48954-2430-4ed5-9164-9c31dae8104d,PopeGregoryI.us,available,10.98,,28,1,14,namecheap,,
+dd2880d0-edd4-4909-9af1-46543d3c346c,consents.us,resell,,,60,4,8,"Spaceship, Inc.",01/04/2026 08:27,01/04/2027 08:27
 dde34943-63e4-4ca0-aab6-7f95f5bae951,cases.us,resell,,,50,12,5,Dynadot Inc,24/04/2002 15:16,23/04/2027 23:59
 ddf27cc7-e7c2-4d00-b710-2339ec6bbee3,havethefoggiest.us,available,5.49,7.99,54,1,17,namesilo,,
 dffedeb9-b535-4882-a666-9dac3bc8e956,Vehicles.us,resell,,,49,13,8,Above.com Pty Ltd.,24/04/2002 14:06,23/04/2027 23:59
@@ -351,6 +418,8 @@ e15abdba-9694-4541-b02b-5d8609a21f7b,grains.us,resell,,,78,17,6,"GoDaddy.com, LL
 e1a8b802-59f8-4abb-ba9b-80446e3804b1,vacations.us,resell,,,56,19,9,"GoDaddy.com, LLC",09/07/2023 00:00,09/07/2030 00:00
 e32526e8-054c-4206-bf76-77ec0ff8c131,breastfeed.us,available,7.99,,76,3,11,name.com,,
 e33906c0-7910-43ba-bd1f-d21863011ad6,accountreceivable.us,available,7.99,,62,1,18,name.com,,
+e3745716-1df8-42db-a9ab-59577f2c75f7,planners.us,resell,,,50,9,8,Dynadot Inc,31/05/2004 23:24,30/05/2026 23:59
+e3b1cd95-d317-40a9-8c6f-7e9c6c21ee19,creditors.us,resell,,,50,5,9,Dynadot Inc,16/02/2026 19:38,16/02/2027 19:38
 e48fb4e1-73db-427b-8fe1-c57f3159345b,leavemealone.us,resell,,,42,7,14,"Spaceship, Inc.",01/04/2026 06:35,01/04/2027 06:35
 e615b7a9-b0c4-4dc6-9e74-f3ed8875081b,rehabs.us,resell,,,51,8,6,"GoDaddy.com, LLC",21/12/2004 19:11,20/12/2026 23:59
 e65e4560-a7a9-4c34-b037-8d056218d90c,fractions.us,resell,,,52,7,9,Go Canada Domains Inc,25/10/2008 18:02,24/10/2026 23:59
@@ -372,9 +441,12 @@ edb040a4-67bf-4622-9f5d-6c6ee0d2d684,proxyvoting.us,available,7.99,,62,2,12,name
 ede95496-42aa-4758-bfb6-922fc09e275f,refused.us,resell,,,50,4,7,"GoDaddy.com, LLC",01/01/2013 17:01,31/12/2026 23:59
 edea7aa5-ef38-44d0-8d51-e6b80e76bde6,finalreckoning.us,available,7.99,,58,2,15,name.com,,
 ee1bfad0-96c3-428d-8941-6e61bf7dac64,typed.us,resell,,,70,11,5,"Spaceship, Inc.",01/04/2026 10:13,01/04/2027 10:13
+f0376a50-05ec-4e97-bb30-f073066a0e83,floodwaters.us,available,5.49,7.99,56,2,11,namesilo,,
 f04f2515-2b9c-40d7-976d-f8accf340b98,notsomuch.us,available,7.99,,46,1,11,name.com,,
+f088c943-dd32-4b1b-93d9-23ba6f3b1ccb,aldehydes.us,available,5.49,7.99,36,1,9,namesilo,,
 f0f7fd95-010f-4554-a7b4-89a377cf0a5f,throats.us,available,5.49,7.99,44,2,7,namesilo,,
 f2b33757-501c-4f67-bdd5-53e40da0544a,keepoutof.us,available,7.99,,68,0,11,name.com,,
+f31cde83-6600-43f2-9a28-40cba416fa89,smartest.us,resell,,,64,20,8,Porkbun,17/06/2021 00:03,17/06/2026 00:03
 f3cd7c28-6c62-4bc9-9589-45b4fe40e2cb,preliminarily.us,available,7.99,,41,1,13,name.com,,
 f46a9c4c-0ee0-4cc1-81e0-2c9e4e4e688b,underwater.us,resell,,,64,15,11,"Spaceship, Inc.",13/12/2016 18:21,12/12/2026 23:59
 f479f00c-2388-437b-b951-74ca12657493,holidays.us,resell,,,78,23,8,Dynadot Inc,04/06/2004 17:47,03/06/2026 23:59
@@ -382,6 +454,7 @@ f47bfb99-c382-4bec-91e2-dc842f10a87b,Williamson.us,resell,,,60,13,10,"GoDaddy.co
 f642847c-82b3-4e9f-bffe-fcb8f25cdad0,alcoholintoxication.us,available,7.99,,48,1,20,name.com,,
 f6cc283a-fdec-4f5f-bfe6-414d34402fec,overwith.us,available,7.99,,60,1,9,name.com,,
 f7255591-822f-4d77-8ebb-89e856e71190,crowns.us,resell,,,62,11,6,"Spaceship, Inc.",25/02/2020 12:10,25/02/2027 12:10
+f8b639cc-0396-4b54-a92a-5c9e4a1c0d4a,demoted.us,available,5.49,7.99,46,1,7,namesilo,,
 f8c39d11-d012-496c-9f3e-eedf1bb385ba,thongs.us,resell,,,50,5,6,Dynadot Inc,24/04/2002 14:02,23/04/2027 23:59
 f8c924ed-a3a1-4569-b580-6b19c77f9e9f,refusing.us,available,7.99,,40,3,8,name.com,,
 f8ec8c4a-e418-4c4a-99e8-da56bd4fa6de,offices.us,resell,,,60,16,7,"GoDaddy.com, LLC",24/04/2002 14:03,23/04/2027 23:59
@@ -390,15 +463,20 @@ fa3676a1-be73-4c98-a770-d873b533c345,diseases.us,resell,,,40,5,8,"GoDaddy.com, L
 fa709304-6018-4896-a52f-3e3a72859081,KeyWest.us,resell,,,76,26,8,"GoDaddy.com, LLC",02/06/2004 18:06,01/06/2026 23:59
 fabf64e8-81a9-4e68-aeee-829f86e15c2c,jetblack.us,resell,,,82,8,9,Dynadot Inc,17/09/2021 00:00,17/09/2026 00:00
 facd4a00-2685-455b-b9e4-de05f84998e7,pumpup.us,resell,,,76,5,7,Dynadot Inc,06/12/2025 00:00,06/12/2026 00:00
+fb1b658c-8c69-402f-b035-2a2f48d75317,failures.us,available,7.99,,46,5,8,name.com,,
 fb4707bd-17f2-4075-900c-9da1c42ecd04,breeds.us,resell,,,60,4,6,Dynadot Inc,14/04/2023 00:00,14/04/2027 00:00
 fb7b2bb9-7d6b-4b0c-9291-789ae5b1a815,gems.us,resell,,,70,28,4,"GoDaddy.com, LLC",29/06/2007 18:04,28/06/2028 23:59
+fb979eaa-95c1-4219-b453-3c9ed4bc1f66,sneezed.us,available,7.99,,47,2,7,name.com,,
+fc52d041-566a-4d39-b255-65443ae651f7,fonts.us,resell,,,58,17,5,"NameCheap, Inc.",04/06/2004 21:02,03/06/2026 23:59
 fcaa0a01-4d19-4953-835b-057ae5157a95,sedans.us,available,5.49,7.99,51,3,6,namesilo,,
+fccdd9d4-7999-47d2-92d3-2f2f4cffb5b0,moulds.us,available,7.99,,52,5,6,name.com,,
 fcf1baeb-bde6-472d-9952-8faf771dafaa,liberties.us,resell,,,56,6,9,Sav.com LLC,04/07/2024 21:46,04/07/2026 21:46
 fe6d3b39-cda0-43e9-a19a-d1daa3701d78,makeitcount.us,resell,,,72,8,13,"Spaceship, Inc.",01/04/2026 10:27,01/04/2027 10:27
 fef064bc-a2d9-4a4b-9d18-07d2ff0f433c,traps.us,resell,,,68,7,5,"GoDaddy.com, LLC",23/07/2002 17:20,22/07/2027 23:59
 ff1a36cb-e579-4548-a1e4-d8164ed84c8b,FinalJudgment.us,available,10.98,,54,2,14,namecheap,,
 ff40ffb0-0b7d-4476-b441-cd32c10d1f1d,biases.us,available,5.49,7.99,42,3,6,namesilo,,
 ff468bf5-44ae-4a82-a7b9-8d7d5e8b457a,invogue.us,resell,,,70,6,8,"Spaceship, Inc.",01/04/2026 11:30,01/04/2027 11:30
+ffd9c9ee-6f45-4c17-92cf-5b5e27c02d68,blewup.us,available,5.49,7.99,44,1,7,namesilo,,
 ffdeab92-54b5-4e50-ae5a-e4fd1b76348b,underprotest.us,available,7.99,,30,1,13,name.com,,
 af8e87eb-8382-4ef7-9e86-eec5e104638d,Asianization.us,premium,,,52,8,12,,,
 7420578e-5a98-4427-97bc-f51b33bfa80f,typical.us,resell,,,82,11,7,Dynadot Inc,03/01/2022 00:00,03/01/2027 00:00
@@ -512,7 +590,7 @@ b6af5889-30dd-46a1-a4cb-a8e096a8a2b2,NorthHolland.us,premium,,,,68,13,,,
 3ba777a2-4531-457d-b831-43a8fcc9c132,secretagogue.us,premium,,,52,72,12,,,
 091ea963-54c0-4e27-88b0-730292fd8323,subparagraph.us,premium,,,73,72,12,,,
 b255efe0-f5e6-4f52-8b08-e78b4695b2a5,artisticgymnastics.us,premium,,,64,8,19,,,
-3fd6ee56-e6a1-4cbf-b28d-456e16f3bf5c,joke.us,resell,,,98,18,4,"GoDaddy.com, LLC",24/04/2002 14:07,23/04/2027 23:59
+3fd6ee56-e6a1-4cbf-b28d-456e16f3bf5c,joke.us,resell,,,98,17,4,"GoDaddy.com, LLC",24/04/2002 14:07,23/04/2027 23:59
 ac9e2708-afa5-4481-9c39-e0843a447e01,weeding.us,premium,,,64,72,7,,,
 bfb281d1-5daa-4d23-b623-919b07d3a70e,bucketbrigade.us,premium,,,56,76,14,,,
 d2a07397-3425-49d7-9561-61f9409a593b,blueeyecod.us,premium,,,56,72,12,,,
@@ -762,11 +840,11 @@ a15d0ef7-8d86-46b1-be67-41a1aee546e1,climb.us,resell,,,94,76,5,"GoDaddy.com, LLC
 40094783-5628-424c-8b16-9211151dbeb8,graters.us,premium,,,,16,7,,,
 9aa7bd0c-1371-4f85-9683-966da8c45e73,BritishbornChinese.us,premium,,,36,72,20,,,
 d514c861-b16a-47c4-aa9a-d3609f0b90e3,Chinesechess.us,premium,,,62,72,13,,,
-e2cf0889-6432-4793-898c-718e0c72570e,pristine.us,resell,,,71,18,8,Dynadot Inc,24/05/2022 00:00,24/05/2027 00:00
+e2cf0889-6432-4793-898c-718e0c72570e,pristine.us,resell,,,71,19,8,Dynadot Inc,24/05/2022 00:00,24/05/2027 00:00
 fb6dfa9a-8063-4858-997f-84aaf2950b3b,halfblood.us,premium,,,56,72,10,,,
 50a97192-eaab-45e3-9843-c085697903ef,shootthebull.us,premium,,,,72,14,,,
 a40717b1-b766-4675-b539-941427a141d1,yards.us,resell,,,72,9,5,"Wild West Domains, Inc.",30/06/2004 18:32,29/06/2026 23:59
-89189931-85e4-4a47-8e06-38c7031ceca8,long.us,resell,,,70,28,4,GoDaddy Online Services Cayman Islands Ltd.,25/07/2007 18:05,24/07/2026 23:59
+89189931-85e4-4a47-8e06-38c7031ceca8,long.us,resell,,,70,26,4,GoDaddy Online Services Cayman Islands Ltd.,25/07/2007 18:05,24/07/2026 23:59
 c6c10bca-215b-4d7d-9251-0bd7e6051979,teetotally.us,premium,,,50,72,10,,,
 9a5c86fd-6fd4-420d-a649-fa65779950bf,unexpired.us,premium,,,52,72,9,,,
 48bc2f68-e7a3-4f47-a7bd-fe90de20652f,broadmindedly.us,premium,,,54,72,14,,,
@@ -788,7 +866,7 @@ e941c474-e3fb-4a75-a752-90776a810ec5,vinaigrette.us,premium,,,,16,11,,,
 18d6da46-9252-45c6-bedd-777e69a700bd,cerebralhemisphere.us,premium,,,56,72,19,,,
 1dc28090-ccdc-432d-83f8-526fe2562298,travellers.us,resell,,,,11,10,"GoDaddy.com, LLC",13/04/2018 00:03,13/04/2027 00:03
 918dd1c6-2e08-4eca-839c-353c942e4abb,definite.us,resell,,,84,9,8,Dynadot Inc,29/09/2021 00:00,29/09/2026 00:00
-120c35c7-485b-452b-82ac-e991c046fbe9,tendered.us,premium,,,,20,8,,,
+120c35c7-485b-452b-82ac-e991c046fbe9,tendered.us,premium,,,,3,8,,,
 0476b607-cef9-48c6-b184-abcaf69fcedf,gridplan.us,premium,,,52,72,9,,,
 aa42392f-58f1-49cc-bd68-2f506e6f1586,crowningglory.us,premium,,,74,24,14,,,
 13ac919f-1494-47a2-80c2-579c188e8130,Ionlyworkhere.us,premium,,,54,1,16,,,
@@ -837,7 +915,7 @@ bad6b559-8610-48ad-8ed6-c3e316bdc171,bourgeoisie.us,premium,,,54,76,11,,,
 6be71fbc-e458-4013-9567-e453b564dd7c,assemblies.us,resell,,,46,20,10,"Wild West Domains, Inc.",25/04/2002 15:32,24/04/2026 23:59
 2986c9cd-d19e-4bf8-bee3-3b8fc0face6a,outofdrawing.us,premium,,,,72,14,,,
 cd130e53-7ad2-404e-ba26-b3a4475004e2,apogamo.us,premium,,,41,1,9,,,
-7ba5f12d-697c-4096-8e97-f2330ab759b4,pretty.us,resell,,,80,25,6,"GoDaddy.com, LLC",11/07/2013 18:05,10/07/2026 23:59
+7ba5f12d-697c-4096-8e97-f2330ab759b4,pretty.us,resell,,,80,26,6,"GoDaddy.com, LLC",11/07/2013 18:05,10/07/2026 23:59
 02d3fd09-1fec-473b-92de-fc75ccfe2f61,middleend.us,premium,,,48,72,10,,,
 665f5ab4-46e5-49e0-89c1-f1dfa894b66d,crocodiletear.us,premium,,,54,72,14,,,
 8bad3f22-6c42-4f8c-9d51-912c5c83725e,modernsynthesis.us,premium,,,64,72,16,,,
@@ -921,81 +999,3 @@ c3a1608c-fc00-419e-b959-abd3d277859e,resultant.us,resell,,,76,3,9,Sav.com LLC,12
 d665d16e-b87d-4cb7-82a7-0e6162dd55c7,eaccount.us,resell,,,64,80,9,Dominet (HK) Limited,10/02/2025 21:05,10/02/2026 21:05
 944a42e6-2df9-42db-9a86-a64bc47c0745,factorofsafety.us,premium,,,37,4,16,,,
 b573dfde-c679-4adb-b6b4-78569247e519,pyjama.us,resell,,,73,68,6,Dominet (HK) Limited,10/02/2025 07:44,10/02/2026 07:44
-0aa2e965-dbe2-499a-8019-6b88dc8df935,mooncarrot.us,premium,,,54,72,11,,,
-15fbd7e0-e4ec-455f-9aff-91a8c8b7ca75,whiteknuckle.us,premium,,,70,72,13,,,
-217dbf3c-d0b1-477f-b7fa-b8457da5cd89,dryingout.us,premium,,,38,8,10,,,
-63645402-480f-470c-932b-c4afc3647756,condylobasal.us,premium,,,48,4,12,,,
-9a46dd1d-3746-4fc6-b8ed-ea2ce0fd46f0,aluminize.us,premium,,,54,72,9,,,
-dac98f53-5092-4511-800c-507f95ceb141,quickfreeze.us,premium,,,76,72,12,,,
-8045d51d-90c9-4f96-bd34-2f75ac2e8a7e,Swedishmodel.us,premium,,,,4,13,,,
-04d1ab3a-72f7-483b-aad2-bbf1887e1d74,twohandedly.us,premium,,,,72,12,,,
-e129c0a2-00cc-46f0-9879-147ad9b966be,spendapenny.us,premium,,,,76,13,,,
-b3736095-ca9d-4df7-9299-ae2d2c56b26f,FreeSoviets.us,premium,,,48,72,12,,,
-01514d80-2c55-4b51-8800-4496a83cb297,compliant.us,resell,,,69,13,9,"GoDaddy.com, LLC",26/06/2014 08:15,25/06/2027 23:59
-8cecade1-6b07-4e2f-9007-197b0b233a56,breakfasts.us,premium,,,56,16,10,,,
-37025b4d-be99-4904-bbdd-53765205ccb7,esafety.us,resell,,,68,80,8,Dominet (HK) Limited,10/02/2025 06:38,10/02/2026 06:38
-336b28ce-7749-4c6a-ae10-1e568291d161,moneylove.us,resell,,,64,76,10,Dominet (HK) Limited,10/02/2025 14:11,10/02/2026 14:11
-9ac37990-b731-4a0d-9a6c-734005f92510,uptheriver.us,premium,,,50,72,12,,,
-56ecc724-544f-4342-9ef8-acf7b83babed,arteriolopathy.us,premium,,,50,4,14,,,
-0af3e61b-3102-450d-871f-bd4798aaf95e,chestnut.us,resell,,,60,13,8,"GoDaddy.com, LLC",01/07/2005 17:06,30/06/2026 23:59
-17348418-1a97-4ee3-a23c-d20258ef123c,readableness.us,premium,,,,4,12,,,
-2e206640-2059-4e05-9cb8-966871a57d2c,epiphany.us,resell,,,66,84,8,"GoDaddy.com, LLC",24/04/2002 14:18,23/04/2026 23:59
-24cc219a-33d1-4289-b0e9-0d4b44021911,liven.us,resell,,,68,80,5,"GoDaddy.com, LLC",25/06/2003 23:51,24/06/2026 23:59
-b2f50df5-1834-4ed6-b438-164da181c049,overworld.us,premium,,,54,84,9,,,
-7c4fd072-6625-4c9e-a32c-c99f49187141,holidaypay.us,premium,,,64,76,11,,,
-47b29e27-66cd-4afe-bd8b-fc5685d407fb,unhooking.us,premium,,,52,72,9,,,
-cdd9dcfc-9d6c-442a-b841-ddb437bf6fc3,threepenny.us,premium,,,72,72,10,,,
-a240ebf9-e94d-4ef2-a2d0-ae8998719af9,longago.us,premium,,,50,3,8,,,
-301a47b8-0b34-479e-939e-98972c930bef,lopsided.us,premium,,,44,2,8,,,
-e281a1f7-1b92-4c94-a52d-801f5edb6ff5,cynthia.us,resell,,,56,80,7,PDR Ltd. d/b/a PublicDomainRegistry.com,24/04/2002 14:24,23/04/2026 23:59
-50dabc3b-10cb-41ec-9df8-9aa7b817bece,vaporisation.us,premium,,,,8,12,,,
-b02fa11c-ecd2-4d41-bfa9-ba5657caf669,parishes.us,premium,,,,3,8,,,
-00bfdfc7-fe96-42c6-8d1b-b42787419382,Californiaroll.us,premium,,,66,72,15,,,
-1169689a-0622-4f4a-804a-740b27c47ad1,putapinin.us,premium,,,,68,12,,,
-ded4f38c-7617-4498-80e6-4d3d56b5cffd,LiberalNational.us,premium,,,54,72,16,,,
-8391c40b-f62c-4c90-9798-48abea8f1cf1,drymeasure.us,premium,,,52,72,11,,,
-49696676-bee0-4686-860b-ba15ac431dd2,dailydisposable.us,premium,,,58,72,16,,,
-fce5261b-dc60-4c9b-af7d-9d7184b6546f,Gravesend.us,premium,,,44,72,9,,,
-35ae9e4f-48c2-49cb-ab3f-79221c652b7f,banquette.us,premium,,,56,80,9,,,
-e6e77bad-7472-42bb-a977-901d6f3ebd15,yellowflax.us,premium,,,,72,11,,,
-15ebc722-345b-4cdf-b4df-1529776ce1a8,marked.us,resell,,,70,14,6,"Spaceship, Inc.",10/09/2023 00:00,10/09/2026 00:00
-651777be-e4ee-4e53-a4e2-a5f220a0eec9,babyboom.us,premium,,,72,76,9,,,
-297fc6eb-7a1c-4848-91b9-5491a4f925c5,freighthopping.us,premium,,,56,72,15,,,
-6e8b10f7-dd29-4493-bb9e-a2dc14c9c7ae,smartmob.us,premium,,,54,76,9,,,
-226254d9-9c79-4480-a84c-db186e7fd50d,lordover.us,premium,,,68,1,9,,,
-18604c23-d50c-4211-b3f6-eae9fde7d6ae,misremember.us,premium,,,56,72,11,,,
-266ffc45-4cc3-40d9-bed6-e3bc7c823768,unrivalled.us,resell,,,68,80,10,Dominet (HK) Limited,10/02/2025 22:10,10/02/2026 22:10
-239a7076-5b5b-427f-b371-3dce1f50648b,liable.us,resell,,,70,5,6,"NameCheap, Inc.",13/01/2017 18:43,12/01/2027 23:59
-193293fc-5243-48e1-9eee-c92ac27aa18c,timestocome.us,premium,,,,72,13,,,
-f6b003e9-6220-4b23-b793-789fe958b7ef,paradoxically.us,premium,,,46,72,13,,,
-01079f4b-a340-42dd-b36b-dd7c0b29ad71,boxlevel.us,premium,,,38,72,9,,,
-afd85d24-6ee0-403f-b9f5-4ac5ea58d596,moneyillusion.us,premium,,,60,72,14,,,
-0f9b4456-31cb-43ba-9c1c-f9a2dbf34a9a,Australianrules.us,premium,,,62,76,16,,,
-952ccfd8-f8b3-45ad-8d58-05de7eab2f2b,buttonlike.us,premium,,,44,1,10,,,
-f9b34648-fb3a-4e90-b1ad-10e2011d9f66,greatfrigate.us,premium,,,34,4,13,,,
-9773b7a9-bf52-45da-a912-541ebfebd9e4,intakesilencer.us,premium,,,60,72,15,,,
-fc8501f4-b0b0-4e2d-809f-1e656fa950fb,hipstery.us,premium,,,52,72,8,,,
-1d59cb78-df86-4fc1-a622-bdf232aa39d3,bridgedt.us,premium,,,52,72,9,,,
-b0fd46b8-a62f-4550-afc8-3356f7a70662,vibrator.us,resell,,,60,76,8,Go China Domains Inc,09/07/2009 18:34,08/07/2026 23:59
-7ff15735-62ad-490f-b343-8956a5c17728,offtrade.us,premium,,,,68,9,,,
-41e62202-7db3-4e82-9bdd-b2b2bca55490,inlandrevenue.us,premium,,,48,76,14,,,
-bece52f2-b38c-4022-b6a2-a51e0528f7b9,forego.us,premium,,,64,68,6,,,
-3100eb9c-85e8-4901-ab5d-0d6dafd4d381,waterdown.us,premium,,,60,76,10,,,
-21994b35-de2d-4d70-bdab-a9ddd50dfe3e,takingroot.us,premium,,,,24,11,,,
-9e685509-e599-42dc-8769-8e9915c11309,calendarmethod.us,premium,,,52,72,15,,,
-51ae06d2-1873-4db3-823b-a737b664004f,bathhouses.us,premium,,,34,16,10,,,
-c1743e80-b182-4074-b0c3-0b2530245b7c,gagreflex.us,premium,,,56,76,10,,,
-7a1b4262-bbb4-46ee-bcf9-cf1e60e313dd,haveinmind.us,premium,,,64,72,12,,,
-723f5016-89e2-4d41-a46d-38686908cba6,highlightings.us,premium,,,34,12,13,,,
-5f2dee52-59da-4585-babd-56c83e4ed5aa,Johnathan.us,resell,,,50,80,9,Dynadot Inc,19/01/2024 04:37,19/01/2026 04:37
-613f6393-f86c-4d8b-8ef3-9938af5305ae,stray.us,resell,,,102,19,5,"Name.com, Inc.",10/10/2016 18:27,09/10/2026 23:59
-976afdcd-e318-4a03-8289-89598c639a72,weighting.us,premium,,,54,72,9,,,
-982149d5-24e9-4f49-bdf8-fd82843e0a78,baronial.us,premium,,,42,2,8,,,
-7ddf5769-7509-4fa9-b3f5-c4cd3323e148,Styles.us,resell,,,64,84,6,"Name.com, Inc.",24/04/2002 14:04,23/04/2026 23:59
-52d56225-dc99-4b3d-8711-bc6b509dad85,finelooking.us,premium,,,56,12,12,,,
-c5723856-1eef-4792-92f5-bc39a7609fe7,screens.us,resell,,,54,13,7,Porkbun,24/04/2002 14:29,23/04/2027 23:59
-db03c157-fc0b-463a-8f7a-80b0ba7e2d67,oscilloscopes.us,premium,,,,24,13,,,
-52258213-ec53-4d8a-b34b-04156e05af7d,inplace.us,resell,,,56,8,8,"Network Solutions, LLC",15/06/2022 00:00,15/06/2026 00:00
-7cbcd3e2-03e8-4a28-9415-364595b573ee,cybercommunication.us,premium,,,64,24,18,,,
-ad8367e8-d796-49ae-87bf-0f794068a7aa,arithmeticfunction.us,premium,,,54,72,19,,,
-823ea89a-1550-4158-937f-7600366ce98e,accrementition.us,premium,,,52,72,14,,,

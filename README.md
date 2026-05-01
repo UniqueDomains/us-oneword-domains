@@ -1,10 +1,10 @@
-# Available .US One-Word Domains (55,514)
+# Available .US One-Word Domains (55,733)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C514%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C733%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .us one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **55,514 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **55,733 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 55,514 domains
+**Public extract:** 1,000 rows · **Live catalog:** 55,733 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/us`  
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | desalination.us | available | $6.99     | $18.99        | 56             | 20     | 12     | name.com             |
 | brahms.us       | resell    | —         | —             | 58             | 88     | 6      | Dominet (HK) Limited |
 | haggis.us       | premium   | —         | —             | 65             | 84     | 6      | —                    |
-| Iwould.us       | available | $10.98    | —             | 58             | 12     | 7      | namecheap            |
+| Amazons.us      | available | $5.49     | $7.99         | 60             | 12     | 7      | namesilo             |
 | flubber.us      | resell    | —         | —             | 68             | 84     | 7      | Dominet (HK) Limited |
-| overworld.us    | premium   | —         | —             | 54             | 84     | 9      | —                    |
-| shakehands.us   | available | $7.99     | —             | 85             | 9      | 11     | name.com             |
-| epiphany.us     | resell    | —         | —             | 66             | 84     | 8      | GoDaddy.com, LLC     |
 | spoondrift.us   | premium   | —         | —             | —              | 84     | 10     | —                    |
-| savinggrace.us  | available | $7.99     | —             | 76             | 7      | 12     | name.com             |
-| Styles.us       | resell    | —         | —             | 64             | 84     | 6      | Name.com, Inc.       |
-| succour.us      | premium   | —         | —             | 92             | 80     | 7      | —                    |
-| fanmail.us      | available | $7.99     | —             | 74             | 7      | 8      | name.com             |
+| Iwould.us       | available | $10.98    | —             | 58             | 12     | 7      | namecheap            |
 | mongoose.us     | resell    | —         | —             | 60             | 84     | 8      | GoDaddy.com, LLC     |
-| clearness.us    | premium   | —         | —             | 66             | 80     | 9      | —                    |
-| norms.us        | available | $7.99     | —             | 45             | 7      | 5      | name.com             |
+| succour.us      | premium   | —         | —             | 92             | 80     | 7      | —                    |
+| shakehands.us   | available | $7.99     | —             | 85             | 9      | 11     | name.com             |
 | trapper.us      | resell    | —         | —             | 56             | 84     | 7      | GoDaddy.com, LLC     |
+| clearness.us    | premium   | —         | —             | 66             | 80     | 9      | —                    |
+| savinggrace.us  | available | $7.99     | —             | 76             | 7      | 12     | name.com             |
+| norris.us       | resell    | —         | —             | 54             | 84     | 6      | GoDaddy.com, LLC     |
+| loudspeaker.us  | premium   | —         | —             | 66             | 80     | 11     | —                    |
+| fanmail.us      | available | $7.99     | —             | 74             | 7      | 8      | name.com             |
+| sane.us         | resell    | —         | —             | 90             | 80     | 4      | Dynadot Inc          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 55,514 live domains                              |
+| 1,000-row public sample | 55,733 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .US One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .US One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
