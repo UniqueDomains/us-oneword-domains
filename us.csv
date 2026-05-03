@@ -137,6 +137,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 48eb9fed-4e93-490e-a46a-50913270666e,ovens.us,resell,,,55,6,5,Dynadot Inc,26/09/2015 18:02,25/09/2026 23:59
 4a7a9d02-e072-454d-b703-20a3512bf6f1,constraints.us,available,5.49,7.99,44,2,11,namesilo,,
 4b32c728-8eeb-43df-997b-22013c9dc05e,whats.us,resell,,,58,24,5,"Spaceship, Inc.",04/10/2023 00:00,04/10/2026 00:00
+4c105c1f-609e-4bba-8a2e-6ab1e8116c11,idea.us,resell,,,88,99,4,"GoDaddy.com, LLC",24/04/2002 14:01,23/04/2027 23:59
 4c31f1b6-c71f-4ed6-a552-d41f33a9dd41,machines.us,resell,,,56,22,8,Dynadot Inc,24/04/2002 14:18,23/04/2027 23:59
 4c9be6fc-595a-48c4-9e83-22ec5ba912f6,godownhill.us,available,7.99,,68,1,11,name.com,,
 4ceabf67-50c0-41c5-8a59-62dc03c2cda0,techniques.us,resell,,,50,5,10,GoDaddy Online Services Cayman Islands Ltd.,24/10/2010 18:07,23/10/2026 23:59
@@ -998,4 +999,3 @@ df100229-6a17-4433-8df9-e488f852b78a,havesex.us,premium,,,70,4,8,,,
 c3a1608c-fc00-419e-b959-abd3d277859e,resultant.us,resell,,,76,3,9,Sav.com LLC,12/12/2024 06:09,12/12/2025 06:09
 d665d16e-b87d-4cb7-82a7-0e6162dd55c7,eaccount.us,resell,,,64,80,9,Dominet (HK) Limited,10/02/2025 21:05,10/02/2026 21:05
 944a42e6-2df9-42db-9a86-a64bc47c0745,factorofsafety.us,premium,,,37,4,16,,,
-b573dfde-c679-4adb-b6b4-78569247e519,pyjama.us,resell,,,73,68,6,Dominet (HK) Limited,10/02/2025 07:44,10/02/2026 07:44
