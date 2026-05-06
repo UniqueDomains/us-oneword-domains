@@ -1,10 +1,10 @@
-# Available .US One-Word Domains (55,760)
+# Available .US One-Word Domains (55,810)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C760%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C810%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .us one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **55,760 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **55,810 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 55,760 domains
+**Public extract:** 1,000 rows · **Live catalog:** 55,810 domains · **Median ask:** $8.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/us`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| fishfarming.us  | available | $6.99     | $18.99        | 50             | 68     | 12     | name.com             |
-| idea.us         | resell    | —         | —             | 88             | 99     | 4      | GoDaddy.com, LLC     |
-| treacle.us      | premium   | —         | —             | 84             | 84     | 7      | —                    |
-| desalination.us | available | $6.99     | $18.99        | 56             | 20     | 12     | name.com             |
-| university.us   | resell    | —         | —             | 66             | 96     | 10     | Sav.com LLC          |
-| haggis.us       | premium   | —         | —             | 65             | 84     | 6      | —                    |
-| Amazons.us      | available | $5.49     | $7.99         | 60             | 12     | 7      | namesilo             |
-| brahms.us       | resell    | —         | —             | 58             | 88     | 6      | Dominet (HK) Limited |
-| spoondrift.us   | premium   | —         | —             | —              | 84     | 10     | —                    |
-| Iwould.us       | available | $10.98    | —             | 58             | 12     | 7      | namecheap            |
-| flubber.us      | resell    | —         | —             | 68             | 84     | 7      | Dominet (HK) Limited |
-| succour.us      | premium   | —         | —             | 92             | 80     | 7      | —                    |
-| shakehands.us   | available | $7.99     | —             | 85             | 9      | 11     | name.com             |
-| mongoose.us     | resell    | —         | —             | 60             | 84     | 8      | GoDaddy.com, LLC     |
-| clearness.us    | premium   | —         | —             | 66             | 80     | 9      | —                    |
-| savinggrace.us  | available | $7.99     | —             | 76             | 7      | 12     | name.com             |
-| trapper.us      | resell    | —         | —             | 56             | 84     | 7      | GoDaddy.com, LLC     |
-| loudspeaker.us  | premium   | —         | —             | 66             | 80     | 11     | —                    |
-| fanmail.us      | available | $7.99     | —             | 74             | 7      | 8      | name.com             |
-| norris.us       | resell    | —         | —             | 54             | 84     | 6      | GoDaddy.com, LLC     |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| havemercy.us    | available | $7.99     | —             | 80             | 2      | 10     | name.com         |
+| shakehands.us   | available | $7.99     | —             | 85             | 9      | 11     | name.com         |
+| idea.us         | resell    | —         | —             | 88             | 99     | 4      | GoDaddy.com, LLC |
+| ladies.us       | resell    | —         | —             | 80             | 17     | 6      | GoDaddy.com, LLC |
+| geton.us        | resell    | —         | —             | 82             | 10     | 6      | Spaceship, Inc.  |
+| playin.us       | resell    | —         | —             | 80             | 10     | 7      | Spaceship, Inc.  |
+| playon.us       | resell    | —         | —             | 80             | 14     | 7      | Dynadot Inc      |
+| makeit.us       | resell    | —         | —             | 82             | 22     | 7      | GoDaddy.com, LLC |
+| headout.us      | resell    | —         | —             | 82             | 6      | 8      | Spaceship, Inc.  |
+| backyard.us     | resell    | —         | —             | 80             | 27     | 9      | GoDaddy.com, LLC |
+| jetblack.us     | resell    | —         | —             | 82             | 8      | 9      | Dynadot Inc      |
+| hightech.us     | resell    | —         | —             | 83             | 16     | 9      | Dynadot Inc      |
+| getlucky.us     | resell    | —         | —             | 84             | 10     | 9      | GoDaddy.com, LLC |
+| rolemodel.us    | resell    | —         | —             | 85             | 6      | 10     | Dynadot Inc      |
+| whitewater.us   | resell    | —         | —             | 82             | 17     | 11     | GoDaddy.com, LLC |
+| solarpower.us   | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
+| getmarried.us   | resell    | —         | —             | 88             | 5      | 11     | Spaceship, Inc.  |
+| chickensoup.us  | resell    | —         | —             | 84             | 4      | 12     | GoDaddy.com, LLC |
+| thanksgiving.us | resell    | —         | —             | 84             | 13     | 12     | GoDaddy.com, LLC |
+| takeabreak.us   | resell    | —         | —             | 86             | 8      | 12     | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 55,760 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 55,810 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely .us domains, with a mix of exact-word generics, everyday dictionary terms, and phrase-style brands. Examples like idea.us, ladies.us, and backyard.us lean direct and memorable, while havemercy.us, shakehands.us, and makeit.us feel more slogan-like. For founders, the key question is whether a .us ending fits the market and makes the name easy to trust and recall. For investors, the main test is whether the term is broad enough to support resale interest beyond a single use case. When comparing these domains, weigh term quality first, then asking price, then any obvious trademark sensitivity in more specific phrases or brands.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .us extension
+- Mix of generics, dictionary words, and phrase-style brands
+- Median ask across the set is 8.16
+- Check broad appeal and trademark risk before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .US One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .US One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
