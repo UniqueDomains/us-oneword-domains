@@ -248,6 +248,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 87466473-fb3d-4f3f-a16e-f4e77dc0bf83,ive.us,resell,,,62,16,3,"GoDaddy.com, LLC",24/09/2014 20:01,23/09/2026 23:59
 878c2ca3-f6d2-41ad-a44b-846c38cea5ee,havenobusiness.us,available,7.99,,60,1,16,name.com,,
 87bd926f-cc59-47ab-979e-d0e5a3a63115,cheesecakes.us,resell,,,60,4,11,Dynadot Inc,08/09/2023 16:43,08/09/2026 16:43
+889fd7c8-d3df-498d-915d-2441d2b6f1ac,opportunityclass.us,premium,,,72,1,17,,,
 88f0431d-aaff-4a34-aa65-41a462426d98,stages.us,resell,,,57,12,6,Dynadot Inc,30/11/2020 00:01,30/11/2026 00:01
 89897ae5-25ec-42b3-8091-9602dc84e427,thereaway.us,available,7.99,,58,1,10,name.com,,
 89a966d8-f92a-4d6f-af79-d9cee3ff8b2e,highwater.us,resell,,,66,7,10,Dynadot Inc,30/05/2021 00:01,30/05/2026 00:01
@@ -749,7 +750,7 @@ c9323cd7-b21f-4296-8157-7824497dfc77,burred.us,premium,,,46,1,6,,,
 42943f77-e1ea-4585-92b6-92763bd75673,factorization.us,premium,,,52,76,13,,,
 f4552833-dd9d-424b-a173-6f4387369b57,whipper.us,premium,,,58,72,7,,,
 8ccf64d8-549f-4eea-961c-cc6a443572e6,enlarged.us,premium,,,66,2,8,,,
-775ec03c-5d2c-4c39-8a01-faeb946bf8ce,essayquestion.us,premium,,,68,0,14,,,
+775ec03c-5d2c-4c39-8a01-faeb946bf8ce,essayquestion.us,premium,,,68,1,14,,,
 3790474f-790d-4692-ad27-f2e5cc94f1da,steamships.us,premium,,,,12,11,,,
 49691180-07cb-4eeb-8fd2-2595cb9fa8c5,lollyice.us,premium,,,54,72,9,,,
 ae34e739-7d29-4e6d-8036-d5e159fab8f4,interplanetaryplane.us,premium,,,52,4,20,,,
@@ -998,4 +999,3 @@ df100229-6a17-4433-8df9-e488f852b78a,havesex.us,premium,,,70,4,8,,,
 70eff61d-1ada-48f9-8fde-515695425c1a,harmoniously.us,premium,,,56,72,12,,,
 7575541f-c860-41f2-b79c-2121de04f9e2,basilican.us,premium,,,42,1,9,,,
 c3a1608c-fc00-419e-b959-abd3d277859e,resultant.us,resell,,,76,3,9,Sav.com LLC,12/12/2024 06:09,12/12/2025 06:09
-d665d16e-b87d-4cb7-82a7-0e6162dd55c7,eaccount.us,resell,,,64,80,9,Dominet (HK) Limited,10/02/2025 21:05,10/02/2026 21:05
