@@ -1,10 +1,10 @@
-# Available .US One-Word Domains (55,983)
+# Available .US One-Word Domains (56,036)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C983%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-56%2C036%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .us one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **55,983 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **56,036 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 55,983 domains · **Median ask:** $6.48 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 56,036 domains · **Median ask:** $6.30 · **High-demand under $2,500:** 74
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/us`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
 | correct.us    | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc.          |
-| hasto.us      | available | $5.49     | $7.99         | medium         | low    | 6      | namesilo                     |
+| xliii.us      | available | $5.49     | $7.99         | low            | low    | 5      | namesilo                     |
 | occurrence.us | resell    | $7.99     | —             | medium         | low    | 10     | Spaceship, Inc.              |
-| tenner.us     | available | $5.49     | $7.99         | medium         | low    | 6      | namesilo                     |
+| alexic.us     | available | $5.49     | $7.99         | low            | low    | 6      | namesilo                     |
 | eat.us        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC             |
-| noless.us     | available | $7.99     | —             | medium         | low    | 7      | name.com                     |
+| hasto.us      | available | $5.49     | $7.99         | medium         | low    | 6      | namesilo                     |
 | err.us        | resell    | —         | —             | high           | low    | 3      | TLD Registrar Solutions Ltd. |
-| sneezes.us    | available | $5.49     | $7.99         | medium         | low    | 7      | namesilo                     |
+| tenner.us     | available | $5.49     | $7.99         | medium         | low    | 6      | namesilo                     |
 | hot.us        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC             |
-| sombody.us    | available | $5.49     | $7.99         | medium         | low    | 7      | namesilo                     |
+| actable.us    | available | $7.99     | $18.99        | low            | low    | 7      | name.com                     |
 | NUS.us        | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC             |
-| enlarged.us   | available | $5.49     | $7.99         | medium         | low    | 8      | namesilo                     |
+| noless.us     | available | $7.99     | —             | medium         | low    | 7      | name.com                     |
 | ooh.us        | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC             |
-| havesex.us    | available | $5.49     | $7.99         | high           | low    | 8      | namesilo                     |
+| sneezes.us    | available | $5.49     | $7.99         | medium         | low    | 7      | namesilo                     |
 | pad.us        | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC             |
-| holdoff.us    | available | $5.49     | $7.99         | medium         | low    | 8      | namesilo                     |
+| sombody.us    | available | $5.49     | $7.99         | medium         | low    | 7      | namesilo                     |
 | rim.us        | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC             |
-| longago.us    | available | $5.49     | $7.99         | medium         | low    | 8      | namesilo                     |
+| spinous.us    | available | $5.49     | $7.99         | low            | low    | 7      | namesilo                     |
 | SCC.us        | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC             |
-| parishes.us   | available | $7.99     | —             | low            | low    | 8      | name.com                     |
+| amnesiac.us   | available | $7.99     | $18.99        | low            | low    | 8      | name.com                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 55,983 live domains                        |
+| 1,000-row public sample | 56,036 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 74 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .US One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .US One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
