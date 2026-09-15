@@ -134,7 +134,7 @@ ed70cbaa-2db1-43c6-a03e-117445b14374,ordinaryline.us,available,,,medium,high,13,
 66d2ac1a-3704-4e16-a243-2790f271b81c,WestFlemish.us,available,,,medium,high,12,,,
 bf8ff87f-83de-45c1-b47d-a2e4bd8f0d63,platformbed.us,available,,,medium,high,12,,,
 77876278-93b6-4f42-9499-702c71131c09,colorin.us,resell,,,low,low,8,"Spaceship, Inc.",02/04/2026 21:01,02/04/2027 21:01
-50c29d2f-7028-4338-8df6-627d9f997396,casually.us,resell,,,medium,high,8,Dominet (HK) Limited,10/02/2025 13:53,10/02/2026 13:53
+50c29d2f-7028-4338-8df6-627d9f997396,casually.us,resell,,,medium,low,8,Dominet (HK) Limited,27/04/2026 13:46,27/04/2027 13:46
 bc0dad86-a3ed-4c62-bf3d-4ed02d2f91b1,overtaking.us,available,,,medium,medium,10,,,
 9e257007-026f-4ba7-bf1e-2c2962538a23,identikit.us,available,,,high,high,9,,,
 40562e07-9be7-4020-a1de-026557a9f04d,woodpecker.us,resell,,,high,high,10,Dynadot Inc,18/02/2017 18:03,17/02/2026 23:59
@@ -208,7 +208,7 @@ e465e223-fd74-4f54-a89c-c7601ef54cbc,spherical.us,resell,,,medium,low,9,Dynadot 
 f478532d-de76-4288-8511-f26b31cea8c2,Vegemite.us,available,,,medium,high,8,,,
 c80b8d3a-5a42-4f42-a8d9-02fb3d168b0c,bottomwards.us,available,,,medium,low,11,,,
 33fd614b-dcda-4d94-b4b9-e5a79ed3331f,aloogobi.us,available,,,medium,low,9,,,
-72514315-ae62-48f1-a223-2d4396a094c0,everyplace.us,available,,,medium,high,10,,,
+72514315-ae62-48f1-a223-2d4396a094c0,everyplace.us,resell,,,medium,low,10,"Spaceship, Inc.",02/04/2026 18:54,02/04/2027 18:54
 4b6e46ce-a858-48e1-b96e-40fa151ddd60,replays.us,resell,,,medium,medium,7,Dominet (HK) Limited,10/02/2025 16:08,10/02/2026 16:08
 35972c87-958b-40ea-9984-b0d830cf95c0,Michelinstar.us,available,,,medium,high,13,,,
 684af5fa-5772-482c-9d23-a60140d7f398,askover.us,available,,,medium,high,8,,,
@@ -408,7 +408,7 @@ f1ee8e21-797f-45ac-b80f-7612a3e124e4,outpacing.us,available,,,low,low,9,,,
 55d6966e-8d31-487c-b831-8ac42daf557a,continuos.us,available,,,low,low,9,,,
 046c2afe-23f6-413e-bd4a-a8ef042d82c1,livebirth.us,available,,,medium,high,10,,,
 2a58a084-3428-4f02-9750-348a939b3a16,bookprice.us,available,,,medium,high,10,,,
-788830d0-e194-401d-8d25-7869fbe13b87,ethnically.us,available,,,medium,high,10,,,
+788830d0-e194-401d-8d25-7869fbe13b87,ethnically.us,available,5.49,7.99,low,low,10,namesilo,,
 e70be1f1-6013-4893-8de5-83f53f44b931,acidcore.us,available,,,medium,high,8,,,
 30bfdd5f-511b-4d26-8a1e-6837b3322532,windowledge.us,available,,,medium,high,12,,,
 d814c2b9-1a9e-4b36-be4b-a1d8b1b03d2d,blackzone.us,resell,,,low,high,10,Dominet (HK) Limited,10/02/2025 15:58,10/02/2026 15:58
@@ -890,7 +890,7 @@ ef3b7d7d-d029-436f-8224-68b2408b0dba,risked.us,available,,,low,low,6,,,
 73bb3db8-9285-4152-af20-9fdd82a18883,shootoff.us,available,,,medium,high,9,,,
 3ab748f5-9281-4157-aa4d-f4e25f6249f7,yolk.us,resell,,,medium,high,4,"GoDaddy.com, LLC",14/12/2011 05:29,13/12/2025 23:59
 5bbeefd7-f1fc-4f08-b899-776bbcc08800,NUS.us,resell,,,medium,high,3,"GoDaddy.com, LLC",11/07/2018 00:12,11/07/2026 00:12
-b318853d-4d00-47f4-b95d-35a63ba9dfc6,volubly.us,available,,,medium,high,7,,,
+b318853d-4d00-47f4-b95d-35a63ba9dfc6,volubly.us,available,5.49,7.99,low,low,7,namesilo,,
 84a568ea-7af1-4d9c-93f6-641fdd0bca56,milktooth.us,available,,,high,high,10,,,
 8b2e3e35-b532-4769-a5d8-9d28b3ef9351,sulfured.us,available,,,medium,high,8,,,
 ef69cf8f-f98d-4e2f-b515-08045b7cf36d,bluestarwife.us,available,,,medium,high,14,,,
@@ -917,7 +917,7 @@ d3000c6a-ed4f-44c2-a6c7-92895b74ca62,musculature.us,available,,,medium,low,11,,,
 43582d77-d3b0-40d0-b6f4-21289e179119,thereis.us,available,5.49,7.99,medium,low,8,namesilo,,
 82a30fe9-36ac-4e60-8851-cf044f33aa57,geologicjoint.us,available,,,medium,high,14,,,
 b5ba8d1f-4efa-47e5-b522-5c57e40ff386,amplitudemodulation.us,available,,,medium,low,20,,,
-480439fb-e418-4165-849b-b08919316d75,reliably.us,available,,,medium,high,8,,,
+480439fb-e418-4165-849b-b08919316d75,reliably.us,resell,,,medium,low,8,"Spaceship, Inc.",01/04/2026 20:59,01/04/2027 20:59
 85b71a7d-e51a-4b26-97fe-1439bb8a747b,vegetation.us,resell,,,medium,high,10,Dominet (HK) Limited,10/02/2025 22:46,10/02/2026 22:46
 0f62c75c-a107-4207-bdea-bb80c87e4769,ovenmitt.us,available,,,medium,high,9,,,
 0cd86078-bf0a-4000-9130-61bcbeee86b6,coolasacucumber.us,available,,,high,high,18,,,
