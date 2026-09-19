@@ -140,7 +140,7 @@ bc0dad86-a3ed-4c62-bf3d-4ed02d2f91b1,overtaking.us,available,,,medium,medium,10,
 9e257007-026f-4ba7-bf1e-2c2962538a23,identikit.us,available,,,high,high,9,,,,
 40562e07-9be7-4020-a1de-026557a9f04d,woodpecker.us,resell,,,high,high,10,Dynadot Inc,18/02/2017 18:03,17/02/2026 23:59,
 438f6c7a-02e1-4f73-8f41-e5f0f8434565,filename.us,available,,,medium,high,8,,,,
-d005ce32-39a9-431b-89e4-b90632b759e7,americana.us,resell,,,medium,high,9,"GoDaddy.com, LLC",18/08/2012 18:00,17/08/2025 23:59,
+d005ce32-39a9-431b-89e4-b90632b759e7,americana.us,resell,,,medium,low,9,"GoDaddy.com, LLC",18/08/2012 18:00,17/08/2027 23:59,18/09/2026 21:03
 55888d94-4ead-421f-9f15-0721e535e9fd,finalwhistle.us,available,,,medium,high,13,,,,
 e406edcc-105e-4465-bae7-26b8a1aca660,encountering.us,available,,,high,high,12,,,,
 5db6b256-3f22-4502-a257-e85f33980ea2,finickiness.us,available,,,medium,low,11,,,,
@@ -193,11 +193,11 @@ f295a504-cfc4-4da9-89e0-9afc8f31c6c3,surcoat.us,available,,,medium,high,7,,,,
 ef4ca721-a536-4d15-8667-7c1b1d2baf07,worldpower.us,resell,,,medium,high,11,Dominet (HK) Limited,10/02/2025 21:55,10/02/2026 21:55,
 44ecbc61-2394-4da2-8b83-ab30fa08eb13,serious.us,resell,,,high,low,7,"GoDaddy.com, LLC",02/06/2004 18:19,01/06/2027 23:59,
 86c2041e-2319-40a6-8911-e3275e4a1982,reflection.us,resell,,,high,low,10,"GoDaddy.com, LLC",18/02/2018 00:02,18/02/2027 00:02,
-c0b0f486-1a3c-4d30-add2-542414b7660d,wetnurse.us,available,,,high,high,9,,,,
+c0b0f486-1a3c-4d30-add2-542414b7660d,wetnurse.us,available,5.49,7.99,low,low,9,namesilo,,,18/09/2026 15:36
 8d7e7a44-a879-40dd-af1d-145fa5bad0a9,transmissible.us,available,,,medium,medium,13,,,,
 98d84dbe-3c41-41dc-b96c-749c5a5f1c9b,rangy.us,available,5.98,10.98,low,low,5,namecheap,,,18/08/2026 20:13
 4166d484-e81f-4f57-8123-71933a444cf1,thankable.us,available,,,medium,high,9,,,,
-262a0290-2efb-4f01-bdc8-39b671b203f5,hasto.us,available,5.49,7.99,medium,low,6,namesilo,,,
+262a0290-2efb-4f01-bdc8-39b671b203f5,hasto.us,available,5.49,7.99,low,low,6,namesilo,,,18/09/2026 22:32
 371f29b7-0fc0-47bd-8b3b-2359d2df3af8,velvetpile.us,available,,,medium,low,11,,,,
 401a8644-8af2-4ea8-82a3-f05740840f3f,stormflow.us,available,,,medium,high,9,,,,
 c76da8d8-bdad-4dd3-be58-c5cab99e31af,bushknife.us,available,,,medium,low,10,,,,
