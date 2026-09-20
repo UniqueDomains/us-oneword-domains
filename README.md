@@ -1,10 +1,10 @@
-# Available .US One-Word Domains (64,878)
+# Available .US One-Word Domains (65,217)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-64%2C878%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C217%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .us one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **64,878 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **65,217 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 64,878 domains · **Median ask:** $5.76 · **High-demand under $2,500:** 69
+**Public extract:** 1,000 rows · **Live catalog:** 65,217 domains · **Median ask:** $5.76 · **High-demand under $2,500:** 68
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/us`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| correct.us    | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc.          |
 | pupal.us      | available | $5.49     | $7.99         | medium         | medium | 5      | namesilo                     |
 | occurrence.us | resell    | $7.99     | —             | medium         | low    | 10     | Spaceship, Inc.              |
 | rangy.us      | available | $5.98     | $10.98        | low            | low    | 5      | namecheap                    |
@@ -72,9 +71,9 @@ print(df.head())
 | xliii.us      | available | $5.49     | $7.99         | low            | low    | 5      | namesilo                     |
 | err.us        | resell    | —         | —             | high           | low    | 3      | TLD Registrar Solutions Ltd. |
 | alexic.us     | available | $5.49     | $7.99         | low            | low    | 6      | namesilo                     |
-| hot.us        | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC             |
+| hot.us        | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC             |
 | briery.us     | available | $5.49     | $7.99         | low            | low    | 6      | namesilo                     |
-| NUS.us        | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC             |
+| nus.us        | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC             |
 | burred.us     | available | $5.49     | $7.99         | low            | low    | 6      | namesilo                     |
 | ooh.us        | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC             |
 | forego.us     | available | $5.49     | $7.99         | medium         | low    | 6      | namesilo                     |
@@ -82,8 +81,9 @@ print(df.head())
 | hasto.us      | available | $5.49     | $7.99         | low            | low    | 6      | namesilo                     |
 | rim.us        | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC             |
 | tenner.us     | available | $5.49     | $7.99         | medium         | low    | 6      | namesilo                     |
-| SCC.us        | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC             |
+| scc.us        | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC             |
 | actable.us    | available | $7.99     | $18.99        | low            | low    | 7      | name.com                     |
+| wax.us        | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 64,878 live domains                        |
+| 1,000-row public sample | 65,217 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 69 high-demand names under $2,500          |
+| Basic exported fields   | 68 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .US One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .US One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
