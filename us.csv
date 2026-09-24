@@ -330,7 +330,6 @@ f0e9a9ca-857f-47ec-ace4-a8ce798e76bf,basque.us,resell,,,low,low,6,"Spaceship, In
 ffb3ca51-7632-4207-80ec-696b3a41cee1,flatless.us,available,,,low,high,8,,,,
 be828d5d-fadd-4e2d-8da1-c7e5d422ca6e,lettertotheeditor.us,available,5.49,7.99,high,low,20,namesilo,,,
 9b24b602-c8f5-482d-9332-527424e3dcf0,nonbreaking.us,available,,,low,low,11,,,,
-18a02a02-1735-447a-8500-230404a88ba3,benzine.us,available,,,medium,high,7,,,,
 431b95cb-95e9-4b34-9826-c816b4e6847f,parchments.us,available,,,low,low,10,,,,
 fc554d13-58c9-4864-a9a6-96f86668312f,glassteat.us,available,,,medium,high,10,,,,
 1f893555-8579-413b-b189-e54dd9dcff2f,caroling.us,available,,,medium,high,8,,,,
@@ -352,6 +351,7 @@ de13e012-3a29-4e13-9696-75d09b892d1c,touchoff.us,available,,,medium,high,9,,,,
 82092ac3-5e21-43af-a14e-a140749ff274,produces.us,available,5.49,7.99,low,low,8,namesilo,,,17/09/2026 14:14
 5b46c61d-d958-4513-82b5-b37046e68d7a,loudspeaker.us,available,,,medium,high,11,,,,
 2d5bc2c7-f693-4dfa-8837-c18af1186b58,endocrinesystem.us,available,,,medium,high,16,,,,
+e1a6b06f-41a1-4647-82ec-aeb77a7dd05f,connectivity.us,resell,,,medium,low,12,"Spaceship, Inc.",12/07/2025 00:00,12/07/2027 00:00,24/09/2026 02:41
 a1acebbb-9d49-4a4a-9a61-8ae494393e28,milkteeth.us,available,,,low,low,10,,,,
 99060a99-47a7-4cda-a5d4-b2f3ff18e8ee,cybertransport.us,available,,,medium,high,15,,,,
 723adeee-b435-4015-9ffb-56954da10815,devilledham.us,available,,,medium,high,12,,,,
@@ -480,7 +480,7 @@ f131ca85-8160-42e0-9308-36b5088c80e9,artemis.us,resell,,,low,low,7,"GoDaddy.com,
 415f639d-546a-449d-bda6-2561eb8b17b9,neckdeep.us,available,5.49,7.99,low,low,9,namesilo,,,08/09/2026 15:02
 4b464e53-371e-49b8-9fd9-2f31794ab6ff,complexline.us,available,,,medium,high,12,,,,
 a59a6e2a-d0ab-4561-bd3b-b73138eae7a8,scoopin.us,available,5.49,7.99,medium,low,8,namesilo,,,17/09/2026 23:35
-750629f7-473c-4174-a2e6-74406c856fd8,norris.us,resell,,,medium,high,6,"GoDaddy.com, LLC",09/07/2010 18:06,08/07/2027 23:59,17/09/2026 22:58
+750629f7-473c-4174-a2e6-74406c856fd8,norris.us,resell,,,low,low,6,"GoDaddy.com, LLC",09/07/2010 18:06,08/07/2027 23:59,23/09/2026 08:18
 754a9ee1-4ce1-4c43-85d9-b40cdd49884b,latemodel.us,available,,,low,low,10,,,,
 526089ee-68c3-4758-ab9b-4fe137861958,traintime.us,available,,,medium,high,10,,,,
 09d8015a-ea9c-4058-a636-8e9cb384e41d,netsales.us,resell,,,medium,medium,9,"GoDaddy.com, LLC",24/04/2002 16:15,23/04/2027 23:59,
@@ -535,13 +535,13 @@ dac98f53-5092-4511-800c-507f95ceb141,quickfreeze.us,available,,,high,high,12,,,,
 04d1ab3a-72f7-483b-aad2-bbf1887e1d74,twohandedly.us,available,,,medium,high,12,,,,
 e129c0a2-00cc-46f0-9879-147ad9b966be,spendapenny.us,available,,,medium,high,13,,,,
 b3736095-ca9d-4df7-9299-ae2d2c56b26f,freesoviets.us,available,,,medium,high,12,,,,
-01514d80-2c55-4b51-8800-4496a83cb297,compliant.us,resell,,,medium,low,9,"GoDaddy.com, LLC",26/06/2014 08:15,25/06/2027 23:59,
+01514d80-2c55-4b51-8800-4496a83cb297,compliant.us,resell,,,medium,low,9,"GoDaddy.com, LLC",26/06/2014 08:15,25/06/2027 23:59,23/09/2026 17:44
 8cecade1-6b07-4e2f-9007-197b0b233a56,breakfasts.us,resell,7.99,,low,low,10,name.com,,,20/09/2026 13:21
 37025b4d-be99-4904-bbdd-53765205ccb7,esafety.us,resell,,,medium,high,8,Dominet (HK) Limited,10/02/2025 06:38,10/02/2026 06:38,
 336b28ce-7749-4c6a-ae10-1e568291d161,moneylove.us,resell,,,medium,high,10,Dominet (HK) Limited,10/02/2025 14:11,10/02/2026 14:11,
 9ac37990-b731-4a0d-9a6c-734005f92510,uptheriver.us,available,,,medium,high,12,,,,
 56ecc724-544f-4342-9ef8-acf7b83babed,arteriolopathy.us,available,,,medium,low,14,,,,
-0af3e61b-3102-450d-871f-bd4798aaf95e,chestnut.us,resell,,,medium,low,8,"GoDaddy.com, LLC",01/07/2005 17:06,30/06/2027 23:59,17/09/2026 07:14
+0af3e61b-3102-450d-871f-bd4798aaf95e,chestnut.us,resell,,,medium,low,8,"GoDaddy.com, LLC",01/07/2005 17:06,30/06/2027 23:59,23/09/2026 14:04
 17348418-1a97-4ee3-a23c-d20258ef123c,readableness.us,available,,,medium,low,12,,,,
 2e206640-2059-4e05-9cb8-966871a57d2c,epiphany.us,resell,,,medium,high,8,"GoDaddy.com, LLC",24/04/2002 14:18,23/04/2026 23:59,
 24cc219a-33d1-4289-b0e9-0d4b44021911,liven.us,resell,,,medium,high,5,"GoDaddy.com, LLC",25/06/2003 23:51,24/06/2026 23:59,
@@ -839,6 +839,7 @@ a5a116e9-4157-42e6-baa6-e4247f81cbbc,allows.us,available,,,medium,low,6,,,,
 3a51f17e-a895-4722-a6ff-8783ca0eb64b,fullywell.us,available,,,medium,high,10,,,,
 a16d5cd4-2b15-4440-84eb-bfa4b3aecc41,moneywards.us,available,,,medium,high,10,,,,
 964abc6c-ef64-45ea-965f-998ebddc00c4,primip.us,available,,,medium,high,6,,,,
+f3369024-88a0-4def-8716-87a28c4d8aa1,tears.us,resell,,,medium,low,5,Key-Systems GmbH,27/04/2002 21:23,26/04/2027 23:59,24/09/2026 02:29
 1db0a086-8995-4e4f-8b2b-6f5f7735d783,cupfinal.us,available,,,medium,high,9,,,,
 8e444957-3c4d-4f30-a7bb-09f8a0e640c7,acres.us,resell,,,medium,low,5,"Wild West Domains, Inc.",11/06/2004 15:35,10/06/2027 23:59,17/09/2026 02:56
 6763d6b5-f00d-4202-bc6f-a256eba81b51,couponning.us,available,,,medium,low,10,,,,
@@ -998,4 +999,3 @@ c0230b42-5bcf-4708-9d36-c2417261eb01,thirdcousin.us,available,,,medium,high,12,,
 3ba74b64-bce9-47a2-8eee-e2bfec2b3ebc,yellowcake.us,resell,,,medium,low,11,"Spaceship, Inc.",02/04/2026 05:28,02/04/2027 05:28,
 04ee901f-39bc-4491-a596-44274715835a,tauntonturkey.us,available,,,medium,high,14,,,,
 d334f433-88c0-48cd-8319-f7881f3b1f04,personunknown.us,available,,,medium,high,14,,,,
-cdda41ab-cbd4-4933-a33f-c34dd5f6311c,interventive.us,available,,,medium,high,12,,,,
