@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .US One-Word Domains"
+title: "One-word .us domains"
 type: dataset
 authors:
-  - name: "Unique Domains"
-version: "2026-10-03"
-date-released: "2026-10-03"
-url: "https://unique.domains/domains/tld/us"
+  - name: "Unique.domains"
+version: "2026-11-25"
+date-released: "2026-11-25"
+url: "https://unique.domains/tld/us"
 repository-code: "https://github.com/UniqueDomains/us-oneword-domains"
-license: "See LICENSE"
-abstract: "Daily-updated public extract of available and resale .us one-word domains from Unique Domains."
+license: CC-BY-4.0
+abstract: "Daily-updated public extract of available and resale .us one-word domains from Unique.domains."
