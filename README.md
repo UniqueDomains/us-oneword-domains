@@ -4,9 +4,9 @@
 
 1,000 real .us one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [93,320 names on .us](https://unique.domains/tld/us); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [93,287 names on .us](https://unique.domains/tld/us); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-40,687 one-word .us names are free to register today. Cheapest first year $3.99 at GoDaddy, renewal $11.65 there. 116 .us sales in the last 12 months, median $685.
+40,685 one-word .us names are free to register today. Cheapest first year $3.99 at GoDaddy, renewal $11.65 there. 116 .us sales in the last 12 months, median $685.
 
 Live page: [unique.domains/tld/us](https://unique.domains/tld/us?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 29,049 names in the live list today.
+- The files hold 1,000 rows of the 29,100 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
@@ -99,6 +99,22 @@ One-word domains by ending:
 - [.app](https://github.com/UniqueDomains/app-oneword-domains), [page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
 - [.co](https://github.com/UniqueDomains/co-oneword-domains), [page](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
 - [.xyz](https://github.com/UniqueDomains/xyz-oneword-domains), [page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.ca](https://github.com/UniqueDomains/ca-oneword-domains), [page](https://unique.domains/tld/ca?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.cc](https://github.com/UniqueDomains/cc-oneword-domains), [page](https://unique.domains/tld/cc?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.dev](https://github.com/UniqueDomains/dev-oneword-domains), [page](https://unique.domains/tld/dev?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.eu](https://github.com/UniqueDomains/eu-oneword-domains), [page](https://unique.domains/tld/eu?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.gg](https://github.com/UniqueDomains/gg-oneword-domains), [page](https://unique.domains/tld/gg?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.info](https://github.com/UniqueDomains/info-oneword-domains), [page](https://unique.domains/tld/info?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.me](https://github.com/UniqueDomains/me-oneword-domains), [page](https://unique.domains/tld/me?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.net](https://github.com/UniqueDomains/net-oneword-domains), [page](https://unique.domains/tld/net?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.nl](https://github.com/UniqueDomains/nl-oneword-domains), [page](https://unique.domains/tld/nl?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.now](https://github.com/UniqueDomains/now-oneword-domains), [page](https://unique.domains/tld/now?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.org](https://github.com/UniqueDomains/org-oneword-domains), [page](https://unique.domains/tld/org?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.sh](https://github.com/UniqueDomains/sh-oneword-domains), [page](https://unique.domains/tld/sh?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.to](https://github.com/UniqueDomains/to-oneword-domains), [page](https://unique.domains/tld/to?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.tv](https://github.com/UniqueDomains/tv-oneword-domains), [page](https://unique.domains/tld/tv?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.uk](https://github.com/UniqueDomains/uk-oneword-domains), [page](https://unique.domains/tld/uk?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
+- [.vc](https://github.com/UniqueDomains/vc-oneword-domains), [page](https://unique.domains/tld/vc?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=related_tld_page)
 
 Lists:
 
