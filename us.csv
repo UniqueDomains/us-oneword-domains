@@ -9,6 +9,7 @@ a34f984b-d277-488f-8780-c3ed93c446c6,consistory.us,available,4.3,6.96,high,low,1
 5b4215cb-58b2-45c6-8fad-ed0fd680b77d,mastodons.us,available,,,high,high,9,,,
 d38e9824-6d02-48a6-9392-a01661a051ee,lsu.us,resell,,,high,low,3,,,
 0a08205e-e9a7-451b-8dd9-0c888749d880,semiotician.us,available,6.5,6.5,high,low,11,cloudflare,,
+a5ceae3b-47cb-4408-9e08-a4564f121f1c,ixodoid.us,available,6.5,6.5,high,low,7,cloudflare,,
 770a5822-ccbb-4a9a-9704-7c7e05ed2ca2,delimited.us,available,4.14,6.48,high,low,9,spaceship,,
 5e8e9084-4fd7-48ef-878f-ad36cdee90ce,alopex.us,resell,,,high,low,6,Dominet (HK) Limited,28/04/2026 10:41,28/04/2027 10:41
 c631159b-e94d-4e71-8f11-c25253162efc,lala.us,resell,,,high,low,4,,,
@@ -224,6 +225,7 @@ b350ebce-13b6-4b77-ad6c-8686cdd47689,fervidness.us,available,6.5,6.5,high,low,10
 1f714b0b-e8b7-451d-875d-c22d371dd845,pretended.us,available,4.14,6.48,high,low,9,spaceship,,
 e05a5949-f069-4eff-80d7-ba9567ab4293,atta.us,resell,,,high,low,4,,,
 795f3f96-71b6-4290-bb40-351ab26dcaa0,glittery.us,resell,,,high,low,8,"Spaceship, Inc.",01/04/2026 15:22,01/04/2027 15:22
+da6a93ca-1781-4475-a58d-a4ab7be33128,trailerize.us,available,4.14,6.48,high,low,10,spaceship,,
 12b039f1-c60a-4fee-8e37-0e5589a63184,buttering.us,available,,,high,high,9,,,
 f4259600-3bfd-4e93-aeb7-1f075a6778c9,azonal.us,available,4.3,6.96,high,low,6,dynadot,,
 992cd455-7c53-458b-8097-0a7a068afb1f,superscripted.us,available,,,high,high,13,,,
@@ -455,7 +457,7 @@ bf22b051-83df-48f4-9bbd-d2b8234f16b4,overcharge.us,available,4.14,6.48,high,low,
 7ea31e69-8eb6-4dce-ab0f-c36375c3549f,applicant.us,resell,,,high,low,9,Dynadot6 LLC,26/06/2020 00:02,26/06/2027 00:02
 31b292cd-f3cb-4c3c-9136-e20959a8228e,vanille.us,resell,,,high,low,7,,,
 d158e1b2-b87b-4e45-bdb5-1be7a6cf04aa,flauntingly.us,available,,,high,high,11,,,
-8b959464-bc0c-4b33-a19a-038267b4ad81,nongaming.us,available,4.14,6.48,high,high,10,spaceship,,
+8b959464-bc0c-4b33-a19a-038267b4ad81,nongaming.us,available,4.3,6.96,high,high,10,dynadot,,
 cb5682f6-c454-432b-8dc5-67ffceabe673,volatize.us,available,,,high,high,8,,,
 889df734-131e-4f8e-a90e-aebd229b9cf0,jockeying.us,available,,,high,high,9,,,
 81783b69-02e9-4117-8b49-1e6dc2a11a5f,relume.us,available,4.14,6.48,high,medium,6,spaceship,,
@@ -621,7 +623,7 @@ c7cd1e66-5e00-49a2-84bd-273afc9453a1,brightens.us,available,,,high,low,9,,,
 9e967823-5da4-4ba3-967f-c468abe52d56,righto.us,available,5.98,10.98,high,low,6,namecheap,,
 31fccc86-e767-45bf-8b71-7d28f89867f6,luftgeschaeft.us,available,,,high,medium,13,,,
 18564750-7c01-413a-a486-dc2b37c33eab,tortrix.us,available,5.49,7.99,high,low,7,namesilo,,
-1b76fe9e-530a-477c-b369-493cd26c996c,dripline.us,available,4.43,7,high,high,8,porkbun,,
+1b76fe9e-530a-477c-b369-493cd26c996c,dripline.us,available,5.49,7.99,high,high,8,namesilo,,
 229a1059-865d-4adf-9f6d-9de5a954148f,rasp.us,resell,,,high,low,4,"Spaceship, Inc.",06/07/2025 00:00,06/07/2027 00:00
 6523ffc4-ea36-4156-a947-93c3e9baeabc,agonised.us,available,4.3,6.96,high,low,8,dynadot,,
 f5c0ad6a-ae27-4365-a981-e33ca4b24cdd,eyeshade.us,available,6.5,6.5,high,low,8,cloudflare,,
@@ -803,7 +805,6 @@ a5af765f-26d3-4e81-b148-42c47aed3cad,shanty.us,resell,,,high,low,6,Dynadot Inc,1
 7295c2a0-7633-4d10-8d1e-125451a8d3e9,rainmaking.us,resell,,,high,low,10,,,
 4808014e-c4a7-4902-bccf-26e06f6a0eac,folklore.us,resell,,,high,low,8,"GoDaddy.com, LLC",25/04/2002 23:18,24/04/2027 23:59
 a8fffaf8-b0ee-44d7-92b9-4113f964b493,desulphur.us,available,,,high,high,9,,,
-11ed559a-b937-4551-8373-feb5cb158959,function.us,resell,,,high,medium,8,GoDaddy Online Services Cayman Islands Ltd.,28/04/2004 21:15,27/04/2027 23:59
 ab302b64-df24-4eda-a2f9-2e45ddd10930,keyset.us,available,5.98,10.98,high,low,6,namecheap,,
 9f0295a3-3276-48e3-b2a2-091dd24c1754,litoral.us,resell,,,high,low,7,Dominet (HK) Limited,27/04/2026 10:21,27/04/2027 10:21
 deca78b5-a967-4dcf-829d-4e24f1d8ddc9,leadlighting.us,available,6.5,6.5,high,low,12,cloudflare,,
@@ -924,6 +925,7 @@ e98aadbd-d14e-49cb-a0ff-1329b20ebd4d,knockouts.us,available,,,high,low,9,,,
 8f7fd072-36b6-43a1-b959-0117a30ef144,blesser.us,available,4.14,6.48,high,low,7,spaceship,,
 d3810799-b618-4bfb-9efc-4271dcb80396,winged.us,resell,,,high,low,6,Porkbun,10/04/2024 22:55,10/04/2027 22:55
 e794dc5f-bba0-453a-97fb-7d9898dab0cf,vise.us,resell,,,high,low,4,"GoDaddy.com, LLC",15/07/2019 00:03,15/07/2027 00:03
+c8a3f645-f7c5-4987-aa09-53915328582d,preoccupier.us,available,5.49,7.99,high,low,11,namesilo,,
 f40fbd9d-8055-4621-a1b4-817c69839075,organizing.us,resell,,,high,low,10,"GoDaddy.com, LLC",15/07/2004 14:17,14/07/2027 23:59
 2cbdc21f-3bcf-4406-ae24-4771149fb999,lifeful.us,available,5.49,7.99,high,low,7,namesilo,,
 347627f0-de96-4e74-b895-ed05ef5767c6,downwelling.us,available,4.14,6.48,high,low,11,spaceship,,
@@ -997,5 +999,3 @@ c650b53c-980a-47ca-bfda-918cde2806aa,reenchant.us,available,6.5,6.5,high,low,9,c
 53780ecd-3d6c-48da-b1e0-123b9e5a1680,stuttered.us,available,,,medium,low,9,,,
 ffbed9af-e06c-4b33-8a6c-325b657e8939,sherbet.us,resell,,,high,low,7,,,
 ed2363cd-0039-44e0-ba69-ed3017e58a3f,surely.us,resell,,,high,low,6,Dynadot Inc,07/09/2026 00:01,07/09/2027 00:01
-a9f7151c-80b7-47f8-a102-b8061443c8fa,districts.us,resell,,,high,low,9,Dominet (HK) Limited,27/04/2026 12:08,27/04/2027 12:08
-2fbf0085-9650-4d51-abe0-d78c09e22c37,midaxillary.us,available,,,high,low,11,,,
