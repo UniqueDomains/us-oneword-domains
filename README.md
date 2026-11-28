@@ -4,9 +4,9 @@
 
 1,000 real .us one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [93,326 names on .us](https://unique.domains/tld/us); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [93,459 names on .us](https://unique.domains/tld/us); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-40,750 one-word .us names are free to register today. Cheapest first year $3.99 at GoDaddy, renewal $11.65 there. 118 .us sales in the last 12 months, median $704.
+40,896 one-word .us names are free to register today. Cheapest first year $3.99 at GoDaddy, renewal $11.65 there. 118 .us sales in the last 12 months, median $704.
 
 Live page: [unique.domains/tld/us](https://unique.domains/tld/us?utm_source=github&utm_medium=referral&utm_campaign=repo_us_oneword_domains&utm_content=top_tld_page)
 
@@ -46,12 +46,12 @@ The first 20 rows of the file, in the file's order.
 | delimited.us      | available | $4.14          | $6.48         | high           | low    | 9      |
 | alopex.us         | resell    | —              | —             | high           | low    | 6      |
 | lala.us           | resell    | —              | —             | high           | low    | 4      |
+| aciduria.us       | available | $5.98          | $10.98        | high           | low    | 8      |
 | arthroplasty.us   | available | $5.49          | $7.99         | high           | low    | 12     |
 | wonderchild.us    | available | —              | —             | high           | high   | 11     |
 | emerging.us       | resell    | —              | —             | high           | low    | 8      |
 | charts.us         | resell    | —              | —             | high           | low    | 6      |
 | invulnerable.us   | available | $4.14          | $6.48         | high           | low    | 12     |
-| interpreters.us   | resell    | —              | —             | high           | low    | 12     |
 
 ## What is in the data
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 29,214 names in the live list today.
+- The files hold 1,000 rows of the 29,237 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
